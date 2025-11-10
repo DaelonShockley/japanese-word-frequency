@@ -10,7 +10,11 @@ For those interested in using the code to generate an overrepresented words list
 
 ```python DetermineOverrepresentation.py FolderName```
 
-Once the script runs, overrepresented_words.txt will be created in the relevant folder. 
+or, to run the script for all subfolders in the scripts directory: 
+
+```python DetermineOverrepresentation.py All```
+
+Once the script runs, overrepresented_words.txt will be created in the relevant folder(s). 
 
 ## Purpose and Contributing
 The intention of this project is to help language learners study the words which are most unique and relevant to a given series. It is my belief that studying these words prior to watching the series as comprehensible input will improve the watchers ability to pick up on the usage, connotation, and general context for of this words when they appear in the series. At this time only Japanese is supported, but if there's enough interest, I may expand the project to support other languages as well. Additionally, the focus of the project is currently on anime, but I would love to eventually expand to other forms of content. Contributions are welcome! If you have a quality set of transcripts which you would like to be added to the project, you can submit a PR with the transcripts in a properly named folder, or if you're not familiar with submitting PRs send a message to my email daelonshockley@gmail.com or dshocc on discord. For contributions to the code, you can submit a PR, create an issue, or message me with information about a bug. 
@@ -22,4 +26,5 @@ I would like to eventually implement the following
 3. Automatically define overrepresented words, create flashcards, or provide other educational material for each word
 
 If you have ideas for other features you think would be helpful, or improvements that can be made, I'd love to hear about them! 
+
 
