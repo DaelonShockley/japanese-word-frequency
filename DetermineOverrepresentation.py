@@ -25,20 +25,38 @@ def extract_content_words(text: str):
     content_words = []
     total_tokens = len(tokens)
 
+    katakana_pattern = re.compile(r"^[\u30A0-\u30FF]+$")
+    sfx_pattern = re.compile(r"^([\u30A0-\u30FF]{1,3})\1+$")  # e.g., ワクワク, ドキドキ
+    name_like_pattern = re.compile(r"^[\u30A0-\u30FFー]+$")   # pure katakana string
+
     for t in tokens:
-        pos = t.part_of_speech()  
+        pos = t.part_of_speech()
         main_pos = pos[0]
         sub_pos = pos[1]
+        word = t.surface()
 
-        # Include only nouns, verbs, adjectives, and exclude proper nouns
-        if main_pos in ("名詞", "動詞", "形容詞") and sub_pos != "固有名詞":
-            if main_pos == "動詞":
-                word = t.dictionary_form() or t.normalized_form()
-            else:
-                word = t.surface()
-            content_words.append(word)
+        if main_pos not in ("名詞", "動詞", "形容詞"):
+            continue
+        if sub_pos == "固有名詞":
+            continue
+
+        # Normalize verbs
+        if main_pos == "動詞":
+            word = t.dictionary_form() or t.normalized_form()
+
+        # --- Katakana filtering heuristics ---
+        if katakana_pattern.match(word):
+            # Remove obvious sound effects
+            if sfx_pattern.match(word) or word.endswith("ッ") or word.endswith("ー"):
+                continue
+            # Likely a name if long and not in frequency list
+            if len(word) >= 3 and word not in freq_dict:
+                continue
+
+        content_words.append(word)
 
     return content_words, total_tokens
+
 
 """
 Takes a list of words and updates the global word counter.
@@ -118,6 +136,8 @@ def load_frequencies(tsv_file):
             freq_dict[key] = freq
     return freq_dict
 
+freq_dict = load_frequencies('ja_frequency_list_clean.tsv')
+
 """
 Searches freq_dict to find the frequency of a word. Returns 0 if word not found
 """
@@ -145,8 +165,6 @@ def process_folder(folder_path):
                 tokens, c = extract_content_words(sentence)
                 total_words += c
                 update_word_counter(tokens)
-
-    freq_dict = load_frequencies('ja_frequency_list_clean.tsv')
 
     freq_diff_dict = {}
     for word, count in word_counter.most_common(total_words//3):
