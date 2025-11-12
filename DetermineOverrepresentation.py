@@ -27,7 +27,6 @@ def extract_content_words(text: str):
 
     katakana_pattern = re.compile(r"^[\u30A0-\u30FF]+$")
     sfx_pattern = re.compile(r"^([\u30A0-\u30FF]{1,3})\1+$")  # e.g., ワクワク, ドキドキ
-    name_like_pattern = re.compile(r"^[\u30A0-\u30FFー]+$")   # pure katakana string
 
     for t in tokens:
         pos = t.part_of_speech()
@@ -71,10 +70,6 @@ Reads an SRT file and returns a list of cleaned Japanese subtitle lines.
 Each caption (which may span multiple lines) becomes one sentence.
 """
 def extract_sentences_from_srt(filepath: str):
-    """
-    Reads an SRT file and returns a list of cleaned Japanese subtitle lines.
-    Each caption (which may span multiple lines) becomes one sentence.
-    """
     sentences = []
     current_caption = []
 
@@ -139,6 +134,26 @@ def load_frequencies(tsv_file):
 freq_dict = load_frequencies('ja_frequency_list_clean.tsv')
 
 """
+Reads words from folder_path/exclude.txt and returns them as a list of strings.
+If exclude.txt does not exist, returns an empty list.
+Lines starting with '#' or empty lines are ignored.
+"""
+def load_exclude(folder_path: str):
+    exclude_file = os.path.join(folder_path, "exclude.txt")
+
+    if not os.path.exists(exclude_file):
+        return []
+
+    with open(exclude_file, "r", encoding="utf-8") as f:
+        words = [
+            line.strip()
+            for line in f
+            if line.strip() and not line.strip().startswith("#")
+        ]
+
+    return words
+
+"""
 Searches freq_dict to find the frequency of a word. Returns 0 if word not found
 """
 def get_frequency(word, freq_dict):
@@ -166,16 +181,32 @@ def process_folder(folder_path):
                 total_words += c
                 update_word_counter(tokens)
 
+    exclude = load_exclude(folder_path)
+    exclude = set(exclude)
+
     freq_diff_dict = {}
-    for word, count in word_counter.most_common(total_words//3):
-        freq = word_counter[word] / total_words
-        if count < 2*file_count:
-            continue
-        nat_freq = get_frequency(word, freq_dict)
-        if nat_freq == 0:
-            continue
-        overrepresentation = freq / nat_freq
-        freq_diff_dict[word] = overrepresentation
+    if not exclude:
+        for word, count in word_counter.most_common(total_words//3):
+            freq = count / total_words
+            if count < 2*file_count:
+                continue
+            nat_freq = get_frequency(word, freq_dict)
+            if nat_freq == 0:
+                continue
+            overrepresentation = freq / nat_freq
+            freq_diff_dict[word] = overrepresentation
+    else:
+        for word, count in word_counter.most_common(total_words//3):
+            freq = count / total_words
+            if count < 2*file_count:
+                continue
+            if word in exclude:
+                continue
+            nat_freq = get_frequency(word, freq_dict)
+            if nat_freq == 0:
+                continue
+            overrepresentation = freq / nat_freq
+            freq_diff_dict[word] = overrepresentation
 
     sorted_freq_diff = sorted(freq_diff_dict.items(), key=lambda x: x[1], reverse=True)
 
