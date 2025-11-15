@@ -5,8 +5,10 @@ import os
 import csv
 import sys
 import argparse
+from jamdict import Jamdict
 
 csv.field_size_limit(sys.maxsize)
+jam = Jamdict()
 
 # --- Initialize global tokenizer and counter ---
 tokenizer_obj = dictionary.Dictionary().create()
@@ -159,6 +161,59 @@ Searches freq_dict to find the frequency of a word. Returns 0 if word not found
 def get_frequency(word, freq_dict):
     return freq_dict.get(word, 0.0)
 
+def GetWordInformation(word):
+    result = jam.lookup(word)
+
+    if not result.entries and not result.chars:
+        return ""
+
+    lines = []
+
+    for entry in result.entries:
+        # Extract kanji and kana readings
+        kanji_list = [k.text for k in entry.kanji_forms] if entry.kanji_forms else []
+        kana_list = [k.text for k in entry.kana_forms] if entry.kana_forms else []
+
+        head = []
+        if kana_list:
+            head.append(", ".join(kana_list))
+        if kanji_list:
+            head.append(", ".join(kanji_list))
+
+        header = " / ".join(head) if head else word
+        lines.append(f"• {header}")
+
+        # Glosses and part-of-speech per sense
+        if entry.senses:
+            for idx, sense in enumerate(entry.senses, 1):
+                pos_str = ", ".join(sense.pos) if sense.pos else ""
+                gloss_texts = [g.text for g in sense.gloss] if sense.gloss else []
+                gloss = "; ".join(gloss_texts)
+                line = f"    {idx}. {gloss}"
+                if pos_str:
+                    line += f" ({pos_str})"
+                lines.append(line)
+
+        lines.append("")  # spacer between entries
+
+    # Character info (kanji breakdown)
+    if result.chars:
+        lines.append("Kanji components:")
+        for ch in result.chars:
+            # Safely handle ch.meanings
+            meanings = []
+            if hasattr(ch, "meanings") and ch.meanings:
+                if isinstance(ch.meanings, str):
+                    meanings = [ch.meanings]
+                elif isinstance(ch.meanings, (list, tuple)):
+                    # Make sure all items are strings
+                    meanings = [str(m) for m in ch.meanings]
+            grade = getattr(ch, "grade", "?")
+            lines.append(f"    {ch.literal} — {'; '.join(meanings)}; grade {grade}")
+
+    return "\n".join(lines).strip()
+
+
 """
 Processes all subtitle (.srt) files in the folder represented by folder_path, identifying overrepresented words compared to
 ja_frequency_list_clean.tsv, outputs overrepresented_words.txt in the folder_path folder.
@@ -217,6 +272,21 @@ def process_folder(folder_path):
         f.write(f"word: overrepresentation\n")
         for word, overrep in sorted_freq_diff:
             f.write(f"{word}: {overrep:.2f}\n")
+
+    output_file = os.path.join(folder_path, "overrepresented_words_information.txt")
+    count = 1
+    with open(output_file, "w", encoding="utf-8") as f:
+        for word, overrep in sorted_freq_diff:
+            f.write(f"{count}. {word} ({overrep:.2f}x standard frequency)\n\n")
+            info = GetWordInformation(word)
+            if info: 
+                f.write(info)
+                f.write("\n\n")
+                count += 1
+            else: 
+                f.write("Sorry! We are unable to provide information about this word at this time. ")
+                f.write("\n\n")
+                count += 1 
 
     """
     Entry point for the Japanese subtitle word frequency analysis script.
