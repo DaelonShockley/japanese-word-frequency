@@ -197,19 +197,32 @@ def GetWordInformation(word):
         lines.append("")  # spacer between entries
 
     # Character info (kanji breakdown)
+    # Character info (kanji breakdown)
+    # Character info (kanji breakdown)
     if result.chars:
         lines.append("Kanji components:")
         for ch in result.chars:
-            # Safely handle ch.meanings
             meanings = []
-            if hasattr(ch, "meanings") and ch.meanings:
-                if isinstance(ch.meanings, str):
-                    meanings = [ch.meanings]
-                elif isinstance(ch.meanings, (list, tuple)):
-                    # Make sure all items are strings
-                    meanings = [str(m) for m in ch.meanings]
+
+            # Check if meanings exists
+            if hasattr(ch, "meanings"):
+                if callable(ch.meanings):
+                    # Older Jamdict: meanings is a method, call it
+                    m_list = ch.meanings()
+                    if m_list:
+                        meanings = [str(m) for m in m_list if m]
+                else:
+                    # Newer Jamdict: meanings is a property/list
+                    if ch.meanings:
+                        meanings = [str(m) for m in ch.meanings if m]
+
             grade = getattr(ch, "grade", "?")
-            lines.append(f"    {ch.literal} — {'; '.join(meanings)}; grade {grade}")
+            if meanings:
+                lines.append(f"    {ch.literal} — {'; '.join(meanings)}; grade {grade}")
+            else:
+                lines.append(f"    {ch.literal} — grade {grade}")
+
+
 
     return "\n".join(lines).strip()
 

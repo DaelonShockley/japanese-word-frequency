@@ -10,13 +10,13 @@
     1. ji (ancient Chinese halberd) (noun (common) (futsuumeishi))
 
 Kanji components:
-    戟 — ; grade 9
-    矛 — ; grade 8
-    鉾 — ; grade None
-    戈 — ; grade None
-    鋒 — ; grade 9
-    桙 — ; grade None
-    槍 — ; grade 9
+    戟 — halbert; arms; grade 9
+    矛 — halberd; arms; festival float; hallebarde; armes; char de festival; alabarda; armas; alabarda; armas; carro alegórico; grade 8
+    鉾 — halberd; arms; festival float; grade None
+    戈 — halberd; arms; festival car; float; tasselled spear radical (no. 62); grade None
+    鋒 — dagger; sword's point; festival car; float; grade 9
+    桙 — halberd; grade None
+    槍 — spear; lance; javelin; lanza; lanceta; arpón; jabalina; grade 9
 
 2. スパイス (82.28x standard frequency)
 
@@ -29,9 +29,9 @@ Kanji components:
     1. deep-fried food (esp. chicken) (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
 
 Kanji components:
-    唐 — ; grade 8
-    揚 — ; grade 8
-    空 — ; grade 1
+    唐 — T'ang; China; foreign; T'ang; Chine; Tang (antigua dinastía china); China; T'ang; China; grade 8
+    揚 — raise; elevate; hoist; praise; extol; fry in deep fat; hisser; frire; levantar; alzar; izar; freír; levantar; fritar em gordura funda; grade 8
+    空 — empty; sky; void; vacant; vacuum; vide; ciel; vacant; creux; cielo; atmósfera; vacío; vacante; quedarse vacío; vaciar; esvaziar; ceú; desocupado; vazio; vácuo; grade 1
 
 4. 学園 (47.54x standard frequency)
 
@@ -39,8 +39,8 @@ Kanji components:
     1. educational institution; school; academy; campus (noun (common) (futsuumeishi))
 
 Kanji components:
-    学 — ; grade 1
-    園 — ; grade 2
+    学 — study; learning; science; étudier; apprendre; science; estudio; aprendizaje; ciencia; estudiar; estudo; aprendizagem; ciência; grade 1
+    園 — park; garden; yard; farm; parc; jardin; ferme; parque; jardín; academia; parque; jardim; quintal; fazenda; grade 2
 
 5. 丼 (43.54x standard frequency)
 
@@ -49,7 +49,7 @@ Kanji components:
     2. donburi; bowl of meat, fish, etc. served over rice (noun (common) (futsuumeishi))
 
 Kanji components:
-    丼 — ; grade 8
+    丼 — bowl; bowl of food; tazón; cuenco; grade 8
 
 6. 食材 (35.84x standard frequency)
 
@@ -58,8 +58,8 @@ Kanji components:
     2. foodstuff (noun (common) (futsuumeishi))
 
 Kanji components:
-    食 — ; grade 2
-    材 — ; grade 4
+    食 — eat; food; manger; nourriture; alimento; comida; eclipse; comer; comer; comida; alimento; grade 2
+    材 — lumber; log; timber; wood; materials; ingredients; talent; matériaux; ingrédients; bois de charpente; bille de bois; bûche; talent; talento; habilidad; material; leño; tábuas; registro; pau; madeira; talento; grade 4
 
 7. 料理 (32.57x standard frequency)
 
@@ -68,8 +68,8 @@ Kanji components:
     2. dealing with something; handling; administration; management (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
 
 Kanji components:
-    料 — ; grade 4
-    理 — ; grade 2
+    料 — fee; materials; redevance; recette; frais; prix; matériau; material; precio; taxa; materiais; grade 4
+    理 — logic; arrangement; reason; justice; truth; logique; principe; raison; justice; vérité; lógica; razón; preparar; lógica; arranjo; razão; justiça; verdade; grade 2
 
 8. 調理 (29.07x standard frequency)
 
@@ -77,8 +77,8 @@ Kanji components:
     1. cooking; food preparation (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
 
 Kanji components:
-    調 — ; grade 3
-    理 — ; grade 2
+    調 — tune; tone; meter; key (music); writing style; prepare; exorcise; investigate; harmonize; mediate; enquête; mélodie; ton (majeur/mineur); style d'écriture; préparer; exorciser; melodía; tono; investigar; comprobar; arreglar; poner en orden; canção; tom; métrica; clave (música); estilo de escrever; preparar; exorcisar; investigar; grade 3
+    理 — logic; arrangement; reason; justice; truth; logique; principe; raison; justice; vérité; lógica; razón; preparar; lógica; arranjo; razão; justiça; verdade; grade 2
 
 9. 食 (28.48x standard frequency)
 
@@ -91,8 +91,8 @@ Kanji components:
     1. eclipse (solar, lunar, etc.) (noun (common) (futsuumeishi))
 
 Kanji components:
-    食 — ; grade 2
-    蝕 — ; grade None
+    食 — eat; food; manger; nourriture; alimento; comida; eclipse; comer; comer; comida; alimento; grade 2
+    蝕 — eclipse; occultation; be defective; corroído; invadido; dañado; defectuoso; eclipse; corroer; invadir; dañar (por insectos); grade None
 
 10. 勝負 (18.97x standard frequency)
 
@@ -101,8 +101,8 @@ Kanji components:
     2. match; contest; game; bout (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
 
 Kanji components:
-    勝 — ; grade 3
-    負 — ; grade 3
+    勝 — victory; win; prevail; excel; victoire; gagner; l'emporter; surpasser; ganar; sobresalir; vitória; vencer; prevalecer; superar; grade 3
+    負 — defeat; negative; -; minus; bear; owe; assume a responsibility; défaite; perdre; moins; négatif; assumer; porter sur le dos; devoir à quelqu'un; faire un rabais; llevar; tomar a su cargo; deber; ser derrotado; llevarse la victoria; derrotar; negativa; menos; carregar; dever a; assumir uma responsabilidade; grade 3
 
 11. 肉 (16.51x standard frequency)
 
@@ -114,8 +114,8 @@ Kanji components:
     5. ink pad (noun (common) (futsuumeishi))
 
 Kanji components:
-    肉 — ; grade 2
-    宍 — ; grade None
+    肉 — meat; chair; viande; carne; carne; grade 2
+    宍 — muscles; meat; músculos; carne; grade None
 
 12. 先輩 (14.70x standard frequency)
 
@@ -123,8 +123,8 @@ Kanji components:
     1. senior (at work or school); superior; elder; older graduate; progenitor; old-timer (noun (common) (futsuumeishi))
 
 Kanji components:
-    先 — ; grade 1
-    輩 — ; grade 8
+    先 — before; ahead; previous; future; precedence; avant; devant; précédent; futur; antériorité; antes; adelante; previo; precedencia; extremo; punta; final; anterior; antes; prévio; na frente; futuro; precedência; grade 1
+    輩 — comrade; fellow; people; companions; camarade; gens; compagnons; camarada; compañero; colega; sucesivamente; camarada; companheiro; colega; pessoas; grade 8
 
 13. 香り (13.03x standard frequency)
 
@@ -132,9 +132,9 @@ Kanji components:
     1. aroma; fragrance; scent; smell (noun (common) (futsuumeishi))
 
 Kanji components:
-    香 — ; grade 4
-    薫 — ; grade 8
-    馨 — ; grade 9
+    香 — incense; smell; perfume; senteur; encens; parfum; incienso; perfume; fragancia; aroma; dar olor; incenso; cheiro; perfume; grade 4
+    薫 — send forth fragrance; fragrant; be scented; smoke (tobacco); parfumer; parfumé; odorant; fumée; fragancia; olfatear; fragrante; perfumado; fumaça (cigs); grade 8
+    馨 — fragrant; balmy; favourable; perfume; fragancia; grade 9
 
 14. 品 (10.23x standard frequency)
 
@@ -154,9 +154,9 @@ Kanji components:
     3. counter for items (of food, etc.); counter for dishes or courses (at a restaurant) (suffix, counter)
 
 Kanji components:
-    品 — ; grade 3
-    科 — ; grade 2
-    階 — ; grade 3
+    品 — goods; refinement; dignity; article; counter for meal courses; marchandise; dignité; raffinement; article; compteur de plats; producto; artículo; bienes; bens; refinamento; dignidade; artigo; sufixo para contagem de para pratos de refeição; grade 3
+    科 — department; course; section; département; section; cours; science; departamento; curso; materia; falta; delito; departamento; curso; seção; grade 2
+    階 — storey; stair; counter for storeys of a building; étage; niveau; compteur d'étages; piso; nivel; grado; posición; Andar de edifícios; grau; sufixo para contagem de andares de um edifício; grade 3
 
 15. 分かる (10.21x standard frequency)
 
@@ -166,9 +166,9 @@ Kanji components:
     3. I know!; I think so too! (interjection (kandoushi))
 
 Kanji components:
-    分 — ; grade 2
-    解 — ; grade 5
-    判 — ; grade 5
+    分 — part; minute of time; segment; share; degree; one's lot; duty; understand; know; rate; 1%; chances; shaku/100; portion; minute; section; part; degré; son lot dans la vie; comprendre; savoir; devoir; taux; 1%; chances; bu = 1/100 de shaku = 3.03 mm; parte; segmento; minuto; dividir; separar; parte; minuto; segmento; grau; dever; compreender; saber; valor; 1%; oportunidades; shaku/100; grade 2
+    解 — unravel; notes; key; explanation; understanding; untie; undo; solve; answer; cancel; absolve; explain; minute; délier; notes; clé; explication; compréhension; défaire; résoudre; répondre; annuler; absoudre; expliquer; minute; desenredar; desatar; liberar; aclarar; resolver; peinarse; aflojar; solucionar; notas; chave; explicação; compreensão; desamarrar; desfazer; resolveer; resposta; cancelar; absolver; explicar; deta; grade 5
+    判 — judgement; signature; stamp; seal; jugement; signature; tampon; sceau; diferenciar; distinguir; juzgar; sello; marca; señal; sufijo para tamaño (papel); julgamento; assinatura; selo; carimbo; grade 5
 
 16. 卵 (8.80x standard frequency)
 
@@ -185,11 +185,11 @@ Kanji components:
     1. ovum; ovule; egg cell (noun (common) (futsuumeishi))
 
 Kanji components:
-    卵 — ; grade 6
-    玉 — ; grade 1
-    子 — ; grade 1
-    殻 — ; grade 8
-    稃 — ; grade None
+    卵 — egg; ovum; spawn; roe; oeuf; frai; huevo; óvulo; embrión; ovo; óvulo; desovar; ova de peixe; grade 6
+    玉 — jewel; ball; bijoux; balle; boule; joya; esfera; bola; pelota; jóia; bola; gota; grade 1
+    子 — child; sign of the rat; 11PM-1AM; first sign of Chinese zodiac; enfant; signe de la 1ère branche terrestre; signe du Rat (zodiaque); 23 h à 01 h; Nord (0°); chiquillo; niño; criança; grade 1
+    殻 — husk; nut shell; coquille; enveloppe (grain); concha; cáscara; casco (buque); casca; concha de noz; grade 8
+    稃 — grade None
 
 17. 作る (7.80x standard frequency)
 
@@ -210,9 +210,9 @@ Kanji components:
     14. to commit (a sin, etc.) (Godan verb with 'ru' ending, transitive verb)
 
 Kanji components:
-    作 — ; grade 2
-    造 — ; grade 5
-    創 — ; grade 6
+    作 — make; production; prepare; build; fabriquer; produire; construire; préparer; hacer; construir; fabricar; conducta; comportamiento; crear; fazer; produção; preparar; construção; grade 2
+    造 — create; make; structure; physique; créer; fabriquer; structure; physique; maquillage; edificio; crear; construir; criar; fazer; estrutura; psique; grade 5
+    創 — genesis; wound; injury; hurt; start; originate; fondation; genèse; origine; début; blessure; fundar; comenzar; originar; gênese; ferir; dano; ferido; começo; originar; grade 6
 
 18. 食べる (6.97x standard frequency)
 
@@ -221,8 +221,8 @@ Kanji components:
     2. to live on (e.g. a salary); to live off; to subsist on (Ichidan verb, transitive verb)
 
 Kanji components:
-    食 — ; grade 2
-    喰 — ; grade 9
+    食 — eat; food; manger; nourriture; alimento; comida; eclipse; comer; comer; comida; alimento; grade 2
+    喰 — eat; drink; receive (a blow); (kokuji); grade 9
 
 19. 出す (6.41x standard frequency)
 
@@ -238,7 +238,7 @@ Kanji components:
     9. to begin ...; to start to ...; to burst into ... (suffix, Godan verb with 'su' ending)
 
 Kanji components:
-    出 — ; grade 1
+    出 — exit; leave; go out; come out; put out; protrude; sortir; quitter; présence; salir; dejar; sacar; saída; deixa; grade 1
 
 20. 味 (5.91x standard frequency)
 
@@ -253,7 +253,7 @@ Kanji components:
     2. counter for food, drink, medicine, etc. (suffix, counter)
 
 Kanji components:
-    味 — ; grade 3
+    味 — flavor; taste; goût; saveur; sabor; gusto; experiencia; sabor; gosto; grade 3
 
 21. やる (5.25x standard frequency)
 
@@ -285,11 +285,11 @@ Kanji components:
     1. to have sex with (Godan verb with 'ru' ending, transitive verb)
 
 Kanji components:
-    遣 — ; grade 8
-    行 — ; grade 2
-    殺 — ; grade 4
-    演 — ; grade 5
-    犯 — ; grade 5
+    遣 — dispatch; despatch; send; give; donate; do; undertake; expédier; envoyer; donner; faire; entreprendre; enviar; despachar; dar; donar; obsequiar; despacho; enviar; dar; doar; fazer; empreender; grade 8
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    殺 — kill; murder; butcher; slice off; split; diminish; reduce; spoil; tuer; meurtre; massacrer; abattre; trancher; fendre; diminuer; réduire; gâcher; matar; quitar la vida; matar; assassinato; açougueiro; fatiar; partir; diminuir; reduzir; corromper; grade 4
+    演 — performance; act; play; render; stage; interpréter; représentation; jouer; numéro; réciter; mettre en scène; expresar; realizar; llevar a cabo; poner en práctica; representar; performance; ato; jogo; fazer; estágio; grade 5
+    犯 — crime; sin; offense; crime; péché; délit; crimen; delito; ofensa; cometer; perpetrar un delito; violar; crime; pecado; ofensa; grade 5
 
 22. 来る (4.85x standard frequency)
 
@@ -305,8 +305,8 @@ Kanji components:
     2. to come; to arrive; to be due to (Godan verb with 'ru' ending, intransitive verb)
 
 Kanji components:
-    来 — ; grade 2
-    來 — ; grade 10
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
 
 23. くれる (3.97x standard frequency)
 
@@ -322,11 +322,11 @@ Kanji components:
     3. to be sunk in (e.g. despair); to be lost in (e.g. thought); to be overcome with (Ichidan verb, intransitive verb)
 
 Kanji components:
-    呉 — ; grade 8
-    暮 — ; grade 6
-    眩 — ; grade None
-    暗 — ; grade 3
-    昏 — ; grade 9
+    呉 — give; do something for; kingdom of Wu; tu me donnes; faire pour moi; dar; recibir; antigua provincia de China; dê; fazer alguma coisa para; grade 8
+    暮 — evening; twilight; season's end; livelihood; make a living; spend time; mener sa vie; vivre; arriver à son terme; coucher de soleil; anochecer; vivir; finalizar; obscurecerse; acabar; meio de vida; ganhar a vida; gastar tempo; grade 6
+    眩 — faint; dizzy; grade None
+    暗 — darkness; disappear; shade; informal; grow dark; be blinded; obscurité; disparaître; ombre; informel; s'assombrir; être aveuglé; oscuro; poco claro; memorizar; sombrío; escuridão; desaparecer; sombra; informal; escurecer; cegar; grade 3
+    昏 — dark; evening; dusk; grade 9
 
 24. みる (3.50x standard frequency)
 
@@ -351,16 +351,16 @@ Kanji components:
     1. to go around (Ichidan verb)
 
 Kanji components:
-    看 — ; grade 6
-    見 — ; grade 1
-    観 — ; grade 4
-    視 — ; grade 6
-    診 — ; grade 8
-    海 — ; grade 2
-    松 — ; grade 4
-    水 — ; grade 1
-    廻 — ; grade 9
-    回 — ; grade 2
+    看 — watch over; see; regarder attentivement; veiller sur; ver; vigilar; cuidar; asistir; Observar; superviosionar; grade 6
+    見 — see; hopes; chances; idea; opinion; look at; visible; regarder; voir; visible; espoirs; chances; idée; opinion; vista; ver; esperanza; idea; opinión; observar; ser visto; estar a la vista; poder verse; mostrar; ver; esperanças; oportunidades; idéia; opinião; olhar; visíveis; grade 1
+    観 — outlook; look; appearance; condition; view; perspective; vue; aspect; apparence; condition (état); punto de vista; mirar cuidadosamente; mostrar; perspectiva; olhar; aparecimento; condição; visão; grade 4
+    視 — inspection; regard as; see; look at; inspection; point de vue; voir; regarder; inspeccionar; mirar con cuidado; considerar; inspeção; avaliar; ver; olhar; grade 6
+    診 — checkup; seeing; diagnose; examine; examiner; diagnostic; bilan de santé; auscultation; revisión; diagnóstico; examen; revisar; diagnosticar; examinar; checkup; vendo; diagnosticar; examinar; grade 8
+    海 — sea; ocean; mer; océan; mar; océano; playa; oceano; mar; grade 2
+    松 — pine tree; pin; pino; pinheiro; grade 4
+    水 — water; eau; agua; água; grade 1
+    廻 — round; game; revolve; go around; circumference; giro; rotación; vuelta; girar; voltear; dar vueltas; grade 9
+    回 — -times; round; game; revolve; counter for occurrences; tourner; fois; rond; manche (jeu); tour; révolution; récurrence; compteur de fois; girar; volver al principio; evitar; vez; dar vueltas; rodar; -vêzes; redondo; jogo; revolver; sufixo para contagem de para ocorrências; girar; grade 2
 
 25. 入る (3.31x standard frequency)
 
@@ -377,8 +377,8 @@ Kanji components:
     7. to get; to obtain; to receive; to score (Godan verb with 'ru' ending, intransitive verb)
 
 Kanji components:
-    入 — ; grade 1
-    這 — ; grade 9
+    入 — enter; insert; entrer; insérer; entrar; insertar; admitir; introducir; meter; entrar; inserir; grade 1
+    這 — crawl; creep; grovel; trail (vines); grade 9
 
 26. ねぇ (3.26x standard frequency)
 
@@ -399,8 +399,8 @@ Kanji components:
     4. to use (language); to speak (Godan verb with 'u' ending, transitive verb)
 
 Kanji components:
-    使 — ; grade 3
-    遣 — ; grade 8
+    使 — use; send on a mission; order; messenger; envoy; ambassador; cause; utiliser; usar; manejar; emplear; Uso; usar; grade 3
+    遣 — dispatch; despatch; send; give; donate; do; undertake; expédier; envoyer; donner; faire; entreprendre; enviar; despachar; dar; donar; obsequiar; despacho; enviar; dar; doar; fazer; empreender; grade 8
 
 28. 点 (2.80x standard frequency)
 
@@ -425,7 +425,7 @@ Kanji components:
     3. a little; paltry; piddling; mere (suffix)
 
 Kanji components:
-    点 — ; grade 2
+    点 — spot; point; mark; speck; decimal point; point; note; allumer; virgule (décimales); punto; marca; ponto; marca; ponto decimal; grade 2
 
 29. 見る (2.79x standard frequency)
 
@@ -438,9 +438,9 @@ Kanji components:
     6. to see (that) ...; to find (that) ... (auxiliary verb, Ichidan verb)
 
 Kanji components:
-    見 — ; grade 1
-    観 — ; grade 4
-    視 — ; grade 6
+    見 — see; hopes; chances; idea; opinion; look at; visible; regarder; voir; visible; espoirs; chances; idée; opinion; vista; ver; esperanza; idea; opinión; observar; ser visto; estar a la vista; poder verse; mostrar; ver; esperanças; oportunidades; idéia; opinião; olhar; visíveis; grade 1
+    観 — outlook; look; appearance; condition; view; perspective; vue; aspect; apparence; condition (état); punto de vista; mirar cuidadosamente; mostrar; perspectiva; olhar; aparecimento; condição; visão; grade 4
+    視 — inspection; regard as; see; look at; inspection; point de vue; voir; regarder; inspeccionar; mirar con cuidado; considerar; inspeção; avaliar; ver; olhar; grade 6
 
 30. する (2.72x standard frequency)
 
@@ -478,15 +478,15 @@ Kanji components:
     2. to lose (e.g. a match); to forfeit; to squander one's money (e.g. through gambling, Pachinko, etc.) (Godan verb with 'ru' ending, transitive verb)
 
 Kanji components:
-    為 — ; grade 8
-    刷 — ; grade 4
-    摺 — ; grade 9
-    掏 — ; grade None
-    剃 — ; grade None
-    擦 — ; grade 8
-    摩 — ; grade 8
-    磨 — ; grade 8
-    擂 — ; grade None
+    為 — do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of; faire; changer; bénéfice; bien-être; être utile; atteindre; essayer; s'entraîner; coûter; servir pour; bon; avantage; par suite de; hacer; ocurrir; razón; causa; mudança; benefício; bem-estar; é de uso; tentativa; prática; custo; servir para; bom; vantagem; como um resultado de; grade 8
+    刷 — printing; print; brush; imprimer; impression; impreso; estampado; imprimir; impressão; imprimir; grade 4
+    摺 — rub; fold; print (on cloth); frotar; rascar; sellar; pliegue; arruga; plegar; grade 9
+    掏 — pickpocket; grade None
+    剃 — shave; grade None
+    擦 — grate; rub; scratch; scrape; chafe; scour; abrasion; gratter; frotter; râper; racler; irriter; récurer; frotar; restregar; rascar; raspar; arranhar; esfregar; coçar; escovar; atritar; explorar; grade 8
+    摩 — chafe; rub; polish; grind; scrape; irriter; gratter; caresser; frictionner; polir; moudre; roce; fricción; caricia; escoriação; raspar; polir; alcance; arranhão; grade 8
+    磨 — grind; polish; scour; improve; brush (teeth); polir; moudre; récurer; améliorer; brosser (dents); pulido; abrillantado; pulir; abrillantar; lavarse los dientes; moer; polir; explorar; melhorar; escovar (dentes); grade 8
+    擂 — grind; mash; grate; grade None
 
 31. 店 (2.45x standard frequency)
 
@@ -502,9 +502,9 @@ Kanji components:
     3. store; shop (noun (common) (futsuumeishi))
 
 Kanji components:
-    店 — ; grade 2
-    見 — ; grade 1
-    世 — ; grade 3
+    店 — store; shop; magasin; échoppe; tienda; establecimiento; loja; comércio; grade 2
+    見 — see; hopes; chances; idea; opinion; look at; visible; regarder; voir; visible; espoirs; chances; idée; opinion; vista; ver; esperanza; idea; opinión; observar; ser visto; estar a la vista; poder verse; mostrar; ver; esperanças; oportunidades; idéia; opinião; olhar; visíveis; grade 1
+    世 — generation; world; society; public; génération; monde; société; public; generación; mundo; edad; geração; mundo; sociedade; pública; grade 3
 
 32. 言う (2.04x standard frequency)
 
@@ -514,9 +514,9 @@ Kanji components:
     3. to go (e.g. "the alarm went ping"); to make a noise (Godan verb with 'u' ending)
 
 Kanji components:
-    言 — ; grade 2
-    云 — ; grade 9
-    謂 — ; grade 9
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    云 — say; decir; grade 9
+    謂 — reason; origin; history; oral tradition; grade 9
 
 33. くる (1.95x standard frequency)
 
@@ -550,16 +550,16 @@ Kanji components:
     1. to give; to let one have; to do for one (Nidan verb (lower class) with 'ru' ending (archaic), transitive verb)
 
 Kanji components:
-    繰 — ; grade 8
-    来 — ; grade 2
-    來 — ; grade 10
-    佝 — ; grade None
-    僂 — ; grade None
-    抉 — ; grade None
-    刳 — ; grade None
-    剔 — ; grade None
-    枢 — ; grade 8
-    呉 — ; grade 8
+    繰 — winding; reel; spin; turn (pages); look up; refer to; embobiner; bobine; faire tourner; tourner (pages); feuilleter; parler de; devanar; ovillar; pasar páginas; curva; bobina; giro; virar (páginas); melhorar; referis-se a; grade 8
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
+    佝 — foolish; stooped over; grade None
+    僂 — bend over; grade None
+    抉 — gouge; hollow out; bore; pry; grade None
+    刳 — clear; serene; cold; grade None
+    剔 — cutting; grade None
+    枢 — hinge; pivot; door; pivot; charnière; porte; gozne; pivote; eje; punto vital; dobradiça; pivô; porta; grade 8
+    呉 — give; do something for; kingdom of Wu; tu me donnes; faire pour moi; dar; recibir; antigua provincia de China; dê; fazer alguma coisa para; grade 8
 
 34. とき (1.67x standard frequency)
 
@@ -583,19 +583,19 @@ Kanji components:
     1. battle cry; war cry (noun (common) (futsuumeishi))
 
 Kanji components:
-    斎 — ; grade 8
-    時 — ; grade 2
-    刻 — ; grade 6
-    秋 — ; grade 2
-    鴇 — ; grade None
-    朱 — ; grade 8
-    鷺 — ; grade 9
-    桃 — ; grade 8
-    花 — ; grade 1
-    鳥 — ; grade 2
-    鬨 — ; grade None
-    鯨 — ; grade 8
-    波 — ; grade 3
+    斎 — purification; Buddhist food; room; worship; avoid; alike; purification; nourriture bouddhiste; pièce; adorer; éviter; semblable; purificación y culto; habitación para aislarse; purificação; comida de Budistas; quarto; adorar; evitar; da mesma forma; semelhante; grade 8
+    時 — time; hour; temps; heure; tiempo; hora; ocasión; tempo; hora; grade 2
+    刻 — engrave; cut fine; chop; hash; mince; time; carving; graver; découper; émincer; hacher; moment; gravure; grabar; esculpir; triste; angustiado; tiempo; afilar; cincelar; escultura; picar; fatiar; moer; esculpir; grade 6
+    秋 — autumn; automne; otoño; outono; grade 2
+    鴇 — wild goose; madam of a brothel; crested ibis; grade None
+    朱 — vermilion; cinnabar; scarlet; red; bloody; vermillon; rouge; écarlate; sanglant; bermellón; rojo oscuro; antigua unidad monetaria; vermelhão; zinabre; escarlate; vermelho; ensangüentado; grade 8
+    鷺 — heron; grade 9
+    桃 — peach; pêche (fruit); melocotonero; melocotón; pêssegueiro; grade 8
+    花 — flower; fleur; flor; flor; grade 1
+    鳥 — bird; chicken; oiseau; poulet; pájaro; ave; Pássaro; sufixo para nomes de pássaros.; grade 2
+    鬨 — fight; war cry; grade None
+    鯨 — whale; baleine; ballena; baleia; grade 8
+    波 — waves; billows; Poland; onde; vague; Pologne; onda; ola; Polonia; ondas; vagas; Polônia; grade 3
 
 35. 行く (1.46x standard frequency)
 
@@ -612,9 +612,9 @@ Kanji components:
     10. to trip; to get high; to have a drug-induced hallucination (Godan verb - Iku/Yuku special class, intransitive verb)
 
 Kanji components:
-    行 — ; grade 2
-    逝 — ; grade 8
-    往 — ; grade 5
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    逝 — departed; die; défunt; mourir; difunto; morir; fallecer; partir; morrer; grade 8
+    往 — journey; travel; chase away; let go; going; before; formerly; aller simple; aller; parer (coup); voyage; parfois; ir; tiempos antiguos; a veces; viagem; caça embora; deixada ir; indo; grade 5
 
 36. なる (1.34x standard frequency)
 
@@ -641,10 +641,10 @@ Kanji components:
     4. I see (interjection (kandoushi))
 
 Kanji components:
-    成 — ; grade 4
-    為 — ; grade 8
-    鳴 — ; grade 2
-    生 — ; grade 1
+    成 — turn into; become; get; grow; elapse; reach; se changer en; devenir; obtenir; croissance; s'écouler; accomplir; convertirse en; resultar; consistir en; hacerse; llegar a ser; llevar a cabo; lograr; tornar-se; obter; crescer; passar; alcançar; grade 4
+    為 — do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of; faire; changer; bénéfice; bien-être; être utile; atteindre; essayer; s'entraîner; coûter; servir pour; bon; avantage; par suite de; hacer; ocurrir; razón; causa; mudança; benefício; bem-estar; é de uso; tentativa; prática; custo; servir para; bom; vantagem; como um resultado de; grade 8
+    鳴 — chirp; cry; bark; sound; ring; echo; honk; gazouiller; crier; aboyer; pousser son cri (animal); sonner; écho; cacarder; emitir sonido (animal); sonido; sonar; hacer sonar; gorjeio; choro; latido; som; argola; eco; buzina; grade 2
+    生 — life; genuine; birth; vie; naissance; authentique; cru; vida; nacimiento; vivir; existir; nacer; dar a luz; puro; crudo; vida; genuína; nascimento; grade 1
 
 37. 月 (1.23x standard frequency)
 
@@ -656,7 +656,7 @@ Kanji components:
     1. Monday (noun (common) (futsuumeishi))
 
 Kanji components:
-    月 — ; grade 1
+    月 — month; moon; lune; mois; mes; luna; mês; lua; grade 1
 
 38. わけ (0.94x standard frequency)
 
@@ -678,13 +678,13 @@ Kanji components:
     1. lord (hereditary title for imperial descendants in outlying regions) (noun (common) (futsuumeishi))
 
 Kanji components:
-    分 — ; grade 2
-    別 — ; grade 4
-    訳 — ; grade 6
-    理 — ; grade 2
-    由 — ; grade 3
-    戯 — ; grade 8
-    奴 — ; grade 8
+    分 — part; minute of time; segment; share; degree; one's lot; duty; understand; know; rate; 1%; chances; shaku/100; portion; minute; section; part; degré; son lot dans la vie; comprendre; savoir; devoir; taux; 1%; chances; bu = 1/100 de shaku = 3.03 mm; parte; segmento; minuto; dividir; separar; parte; minuto; segmento; grau; dever; compreender; saber; valor; 1%; oportunidades; shaku/100; grade 2
+    別 — separate; branch off; diverge; fork; another; extra; specially; séparer; spécialement; diverger; extra; un autre; separar; aparte; distinto; dividirse; separar; ramo desligado; divergir; garfo; outro; extra; especialmente; grade 4
+    訳 — translate; reason; circumstance; case; traduire; excuse; cause; circonstance; cas; traducir; razón; motivo; causa; significado; traduzir; razão; circunstância; caso; grade 6
+    理 — logic; arrangement; reason; justice; truth; logique; principe; raison; justice; vérité; lógica; razón; preparar; lógica; arranjo; razão; justiça; verdade; grade 2
+    由 — wherefore; a reason; c'est pourquoi; raison; cause; origine; grave; razón; significado; causa; porquanto; por conseguinte; uma razão; grade 3
+    戯 — frolic; play; sport; divertissement; jeu; sport; jugueteo; broma; diversión; teatro; función; juguetear; bromear; flirtear; brincadeira; jogo; esporte; grade 8
+    奴 — guy; slave; manservant; fellow; mec; type; esclave; valet; suffixe insultant; esclavo; criado; siervo; individuo; desprecio; insulto; serva; escrava; dama de companhia; grade 8
 
 39. 思う (0.84x standard frequency)
 
@@ -698,12 +698,12 @@ Kanji components:
     7. to recall; to remember (Godan verb with 'u' ending, transitive verb)
 
 Kanji components:
-    思 — ; grade 2
-    想 — ; grade 3
-    念 — ; grade 4
-    憶 — ; grade 8
-    懐 — ; grade 8
-    惟 — ; grade 9
+    思 — think; penser; pensar; considerar; pensar; grade 2
+    想 — concept; think; idea; thought; concept; pensée; idée; concepto; idea; pensamiento; conceito; pensar; idéia; pensamento; grade 3
+    念 — wish; sense; idea; thought; feeling; desire; attention; désir; souhait; sens; idée; pensée; sentiment; attention; deseo; pensamiento; sentimiento; desejo; sentido; idéia; pensamento; sentimento; atenção; grade 4
+    憶 — recollection; think; remember; souvenir; mémoire; réminiscence; 100 millones; cantidad grande; lembrança; pensar; recordar; grade 8
+    懐 — pocket; feelings; heart; yearn; miss someone; become attached to; bosom; breast; poche; bourse; sentiments; coeur; apprivoiser; nostalgie; aspirer à; s'attacher à; manquer (personne); seins; añoranza; nostalgia; bolsillo propio; añorar; echar de menos; pensar; bolso; sentimentos; coração; saudades; sentir saudades; torna-se ligado a; seio; peitos; grade 8
+    惟 — consider; reflect; think; este; simplemente; solamente; considerar; meditar; pensar; reflexionar; grade 9
 
 40. あと (0.78x standard frequency)
 
@@ -723,11 +723,11 @@ Kanji components:
     3. scar (noun (common) (futsuumeishi))
 
 Kanji components:
-    後 — ; grade 2
-    跡 — ; grade 8
-    迹 — ; grade None
-    痕 — ; grade 8
-    址 — ; grade None
+    後 — behind; back; later; après; derrière; plus tard; después; atrás; detrás; retrasarse; atrás; costas; mais tarde; grade 2
+    跡 — tracks; mark; print; impression; traces; marques; vestiges; empreinte; marca; huella; señal; ruinas; trilhas; marca; impressão; grade 8
+    迹 — mark; print; impression; grade None
+    痕 — mark; foot print; grade 8
+    址 — ruins; grade None
 
 41. いく (0.78x standard frequency)
 
@@ -759,14 +759,14 @@ Kanji components:
     2. to bring to life (Nidan verb (lower class) with 'ku' ending (archaic), transitive verb)
 
 Kanji components:
-    畏 — ; grade 8
-    懼 — ; grade None
-    幾 — ; grade 8
-    行 — ; grade 2
-    逝 — ; grade 8
-    往 — ; grade 5
-    生 — ; grade 1
-    活 — ; grade 2
+    畏 — fear; majestic; graciously; be apprehensive; grade 8
+    懼 — fear; overawed; grade None
+    幾 — how many; how much; how far; how long; some; several; combien; quel; quelques; cuántos; algunos; quantos; quanto; quão longe; quanto tempo; grade 8
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    逝 — departed; die; défunt; mourir; difunto; morir; fallecer; partir; morrer; grade 8
+    往 — journey; travel; chase away; let go; going; before; formerly; aller simple; aller; parer (coup); voyage; parfois; ir; tiempos antiguos; a veces; viagem; caça embora; deixada ir; indo; grade 5
+    生 — life; genuine; birth; vie; naissance; authentique; cru; vida; nacimiento; vivir; existir; nacer; dar a luz; puro; crudo; vida; genuína; nascimento; grade 1
+    活 — lively; resuscitation; being helped; living; vivant; animé; résurrection; être aidé; vida; energía; actividad; vivo; resuscitação; existência; ser ajudado; vida; grade 2
 
 42. ある (0.78x standard frequency)
 
@@ -781,9 +781,9 @@ Kanji components:
     1. a certain ...; some ... (pre-noun adjectival (rentaishi))
 
 Kanji components:
-    有 — ; grade 3
-    在 — ; grade 5
-    或 — ; grade 9
+    有 — possess; have; exist; happen; occur; approx; posséder; avoir; être; arriver (se passer); existir; poseer; tener; ser; possuir; ter; existir; acontecer; ocorrer; aproximadamente; haver; grade 3
+    在 — exist; outskirts; suburbs; located in; exister; banlieue; situé à; existir; pueblo natal; alrededores; ser; existir; arredores; subúrbios; localizados em; grade 5
+    或 — some; one; or; possibly; a certain; un certain; un; ou; ou bien; cierto; o; posiblemente; grade 9
 
 43. いる (0.73x standard frequency)
 
@@ -814,18 +814,18 @@ Kanji components:
     1. to calm down (Ichidan verb, intransitive verb)
 
 Kanji components:
-    射 — ; grade 6
-    炒 — ; grade None
-    煎 — ; grade 8
-    熬 — ; grade None
-    入 — ; grade 1
-    要 — ; grade 4
-    居 — ; grade 5
-    鋳 — ; grade 8
-    鑄 — ; grade 10
-    沒 — ; grade None
-    没 — ; grade 8
-    癒 — ; grade 8
+    射 — shoot; shine into; onto; archery; lancer une flèche; tir à l'arc; sur; briller; disparar; tirar; radiar; liberar; dispare; brilha dentro; sobre; arte do arco e flexa; grade 6
+    炒 — broil; parch; roast; fry; grade None
+    煎 — broil; parch; roast; boil; grade 8
+    熬 — parch; roast; grade None
+    入 — enter; insert; entrer; insérer; entrar; insertar; admitir; introducir; meter; entrar; inserir; grade 1
+    要 — need; main point; essence; pivot; key to; besoin; point principal; pivot; essentiel; point clef; necesidad; punto central; esencia; necesitar; necessidade; ponto principal; essência; pivô; chave para; grade 4
+    居 — reside; to be; exist; live with; se trouver; résider; être; exister; vivre avec; sentarse; residir; vivir con; ser [nk]; existir; residir; existir; viver com; grade 5
+    鋳 — casting; mint; couler (métal); frapper (monnaie); fundir; acuñar; calcular; cunhar moedas; grade 8
+    鑄 — cast; mint; grade 10
+    沒 — not; have not; none; to drown; sink; grade None
+    没 — drown; sink; hide; fall into; disappear; die; sombrer; couler; cacher; immersion; disparaître; mourir; hundirse; ocultarse; morir; perecer; perder; penetrar; rechazar; excluir; afogar; afundar; esconder; cair na mãos de; desaparecer; evaporar; grade 8
+    癒 — healing; cure; quench (thirst); wreak; guérison; guérir; désaltérer; assouvir; curación; cicatrización; restabelecimento; cura; saciar (sede); saciar vontade de vingança; grade 8
 
 44. もの (0.72x standard frequency)
 
@@ -849,8 +849,8 @@ Kanji components:
     2. indicates dissatisfaction; indicates desire to be pampered or indulged (particle)
 
 Kanji components:
-    者 — ; grade 3
-    物 — ; grade 3
+    者 — someone; person; personne; quelqu'un; persona; alguém; pessoa; grade 3
+    物 — thing; object; matter; objet; chose; matière; cosa; objeto; materia; coisa; objeto; matéria; grade 3
 
 45. 気 (0.67x standard frequency)
 
@@ -872,8 +872,8 @@ Kanji components:
     2. somehow; for some reason; seeming to be (noun, used as a prefix)
 
 Kanji components:
-    気 — ; grade 1
-    氣 — ; grade 10
+    気 — spirit; mind; air; atmosphere; mood; esprit; air; atmosphère; humeur; espíritu; mente; espírito; mente; grade 1
+    氣 — spirit; mind; air; atmosphere; mood; grade 10
 
 46. 今日 (0.66x standard frequency)
 
@@ -882,8 +882,8 @@ Kanji components:
     2. these days; recently; nowadays (noun (common) (futsuumeishi), adverb (fukushi))
 
 Kanji components:
-    今 — ; grade 2
-    日 — ; grade 1
+    今 — now; maintenant; ahora; momento actual; agora; grade 2
+    日 — day; sun; Japan; counter for days; jour; soleil; Japon; compteur de jours; día; solar; Japón; sol; rayo de sol; dia; sol; Japão; grade 1
 
 47. いい (0.66x standard frequency)
 
@@ -915,17 +915,17 @@ Kanji components:
     1. affectionately attached; reluctant to part ('taru' adjective, adverb taking the 'to' particle)
 
 Kanji components:
-    怡 — ; grade None
-    謂 — ; grade 9
-    飯 — ; grade 4
-    易 — ; grade 5
-    唯 — ; grade 8
-    委 — ; grade 3
-    蛇 — ; grade 8
-    逶 — ; grade None
-    迤 — ; grade None
-    迱 — ; grade None
-    依 — ; grade 8
+    怡 — rejoice; enjoy; grade None
+    謂 — reason; origin; history; oral tradition; grade 9
+    飯 — meal; boiled rice; repas; riz bouilli; comida; arroz cocido; refeição; arroz cozido; grade 4
+    易 — easy; ready to; simple; fortune-telling; divination; facile; prêt-à-...; simple; voyance; divination; commerce; fácil; simple; cambio; intercambio; adivinación; sencillo; Fácil; ler a sorte; pronto para; simples; advinhação; grade 5
+    唯 — solely; only; merely; simply; seulement; unique; simplement; solamente; meramente; simplemente; somente; unicamente; meramente; simplesmente; grade 8
+    委 — committee; entrust to; leave to; devote; discard; comité; confier à; laisser à; se consacrer; abandonner; confiar; confianza; detallado; comitê; confiar a; deixar para; dedicar; descartar; grade 3
+    蛇 — snake; serpent; hard drinker; serpent; gros buveur; serpiente; cobra; serpente; bebedor duro; grade 8
+    逶 — long; winding; oblique; grade None
+    迤 — wind; walk out of straight path; grade None
+    迱 — grade None
+    依 — reliant; depend on; consequently; therefore; due to; dépendant; par conséquent; donc; dû à; confiar en; depender de; estar basado en; confiante; contar com; consequentemente; portanto; devido para; grade 8
 
 48. 一 (0.61x standard frequency)
 
@@ -961,11 +961,11 @@ Kanji components:
     2. same (mind, path, etc.) (noun (common) (futsuumeishi))
 
 Kanji components:
-    一 — ; grade 1
-    壱 — ; grade 8
-    弌 — ; grade None
-    壹 — ; grade None
-    逸 — ; grade 8
+    一 — one; one radical (no.1); un; radical un (no. 1); uno; 1; um; grade 1
+    壱 — one (in documents); un (I); I; uno (para documentos legales); Um; grade 8
+    弌 — one; grade None
+    壹 — number one; grade None
+    逸 — deviate; idleness; leisure; miss the mark; evade; elude; parry; diverge; dévier; oisiveté; loisirs; rater; s'évader; échapper à; s'écarter; parer; diverger; desviar; eludir; dejar pasar; excepcional; excelente; desocupación; ociosidad; desviar-se; indolência; lazer; perder o ponto; escapar; evitar; desviar um golpe; divergir; grade 8
 
 49. できる (0.60x standard frequency)
 
@@ -982,10 +982,10 @@ Kanji components:
     7. to become pregnant (Ichidan verb, intransitive verb)
 
 Kanji components:
-    出 — ; grade 1
-    切 — ; grade 2
-    来 — ; grade 2
-    來 — ; grade 10
+    出 — exit; leave; go out; come out; put out; protrude; sortir; quitter; présence; salir; dejar; sacar; saída; deixa; grade 1
+    切 — cut; cutoff; be sharp; couper; trancher; tranchant; passionné; sérieux; cortar; urgente; apremiante; completo; cortar bien; agotarse; corte; talho; afiar; grade 2
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
 
 50. こと (0.47x standard frequency)
 
@@ -1029,20 +1029,20 @@ Kanji components:
     1. like; similar to; same as (noun (common) (futsuumeishi), adverb (fukushi))
 
 Kanji components:
-    琴 — ; grade 8
-    箏 — ; grade None
-    筝 — ; grade None
-    古 — ; grade 2
-    都 — ; grade 3
-    事 — ; grade 3
-    縡 — ; grade None
-    糊 — ; grade 9
-    塗 — ; grade 8
-    言 — ; grade 2
-    異 — ; grade 6
-    殊 — ; grade 8
-    如 — ; grade 8
-    若 — ; grade 6
+    琴 — harp; koto; koto; harpe; koto; arpa japonesa; harpa; koto (mus.); grade 8
+    箏 — a koto; grade None
+    筝 — koto; grade None
+    古 — old; vieux; viejo; antiguo; desgastar; velho; grade 2
+    都 — metropolis; capital; all; everything; métropole; capitale; metrópoli; capital; metropole; capital; grade 3
+    事 — matter; thing; fact; business; reason; possibly; fait; chose; matière; affaire; raison; peut-être; cosa; hecho; asunto; acción; matéria; coisa; fato; negócios; razão; possivelmente; grade 3
+    縡 — breath; life; grade None
+    糊 — paste; glue; sizing; pasta; almidón; caldo de arroz; apariencia ausente; apariencia distraída; grade 9
+    塗 — paint; plaster; daub; smear; coating; peinture; peindre; tartiner; barbouiller; enduire; recouvrir; pintar; embadurnar; untar; laquear; recubrir; pintura; gesso; emplastar; untar; cobertura; grade 8
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    異 — uncommon; different; queerness; strangeness; wonderful; curious; unusual; inhabituel; bizarrerie; étrangeté; surprenant; curieux; extraordinaire; raro; extraño; inusual; diferente; incomum; esquisito; estranho; raro; curioso; maravilhoso; grade 6
+    殊 — particularly; especially; exceptionally; particulièrement; spécialement; exceptionnellement; particularmente; especialmente; excepcionalmente; particularmente; especialmente; excepcionalmente; grade 8
+    如 — likeness; like; such as; as if; better; best; equal; ressemblance; comme; comme si; mieux; meilleur; égal; similaire; paraître; análogo; parecido; tal como; igual a; obedecer; semelhança; gostar; tal como; como se; melhor; igual; grade 8
+    若 — young; if; perhaps; possibly; low number; immature; jeune; si; peut-être; ou bien; petit nombre; inexpérimenté; immature; joven; algunos; posiblemente; de otra forma; jovem; se; talvez; possivelmente; número baixo; imaturo; grade 6
 
 51. 今 (0.45x standard frequency)
 
@@ -1055,7 +1055,7 @@ Kanji components:
     2. today's ... (prefix)
 
 Kanji components:
-    今 — ; grade 2
+    今 — now; maintenant; ahora; momento actual; agora; grade 2
 
 52. 中 (0.35x standard frequency)
 
@@ -1102,8 +1102,8 @@ Kanji components:
     2. winning hand with a pung (or kong) of red dragon tiles (noun (common) (futsuumeishi))
 
 Kanji components:
-    中 — ; grade 1
-    内 — ; grade 2
+    中 — in; inside; middle; mean; center; dans; dedans; à l'intérieur; milieu; centre; moyenne; centro; dentro; interior; medio; em; interior; médio; meio; centro; grade 1
+    内 — inside; within; between; among; house; home; intérieur; dedans; entre; parmi; maison; interior; dentro de; privado; interior; dentro; entre; dentre; casa; grade 2
 
 53. ない (0.24x standard frequency)
 
@@ -1129,11 +1129,11 @@ Kanji components:
     2. emphatic suffix (suffix, adjective (keiyoushi))
 
 Kanji components:
-    地 — ; grade 2
-    震 — ; grade 8
-    亡 — ; grade 6
-    無 — ; grade 4
-    内 — ; grade 2
+    地 — ground; earth; sol; terre; suelo; tierra; terreno; posición; terra; chão; grade 2
+    震 — quake; shake; tremble; quiver; shiver; tremblement; secouer; frémir; frissonner; temblar; estremecerse; agitar; sacudir; tremor; agitar; tremer; estremecimento; calafrio; grade 8
+    亡 — deceased; the late; dying; perish; décédé; feu ...; mon regretté ...; mourir; périr; détruire; desaparecer; perecer; difunto; huir; escapar; falecido; agonizante; atrasado; perecer; grade 6
+    無 — nothingness; none; ain't; nothing; nil; not; néant; rien; ne pas; non; in-; négatif; nada; inexistente; prefijo negativo; no hay; Sem valor; nada; não sou/ estou; nihil; não; grade 4
+    内 — inside; within; between; among; house; home; intérieur; dedans; entre; parmi; maison; interior; dentro de; privado; interior; dentro; entre; dentre; casa; grade 2
 
 54. 方 (0.20x standard frequency)
 
@@ -1169,10 +1169,10 @@ Kanji components:
     3. suffix used as a rough indicator of location, direction, time, etc. (suffix)
 
 Kanji components:
-    方 — ; grade 2
-    様 — ; grade 3
-    状 — ; grade 5
-    辺 — ; grade 4
+    方 — direction; person; alternative; direction; personne; alternative; dirección; lado; cuadrado; método; manera; persona; forma de hacer; direção; pessoa; alternativa; grade 2
+    様 — Esq.; way; manner; situation; polite suffix; Monsieur, Madame; apparence; manière; sorte; état; suffixe de politesse; forma; manera; situación; estilo; señor; señora; srta.; Senhor; estilo; modos; sufixo polido para senhor.; grade 3
+    状 — status quo; conditions; circumstances; form; appearance; état des choses; conditions; circonstances; lettre; forme; apparence; estado; condición; circunstancias; situación; condicional; condições; circunstâncias; formulário; aparecimento; grade 5
+    辺 — environs; boundary; border; vicinity; environs; frontière; voisinage; alrededores; límites; vecindad; arredores; limite; borda; vizinhança; grade 4
 
 55. いう (0.16x standard frequency)
 
@@ -1186,8 +1186,8 @@ Kanji components:
     3. to go (e.g. "the alarm went ping"); to make a noise (Godan verb with 'u' ending)
 
 Kanji components:
-    結 — ; grade 4
-    言 — ; grade 2
-    云 — ; grade 9
-    謂 — ; grade 9
+    結 — tie; bind; contract; join; organize; do up hair; fasten; nouer; lier; joindre; contrat; attacher; se coiffer; organiser; final; finalizar; atar; amarrar; unir; vincular; arreglarse el pelo; laço; unir; contrato; união; organizar; pentear; fechar; grade 4
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    云 — say; decir; grade 9
+    謂 — reason; origin; history; oral tradition; grade 9
 
