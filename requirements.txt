@@ -1,1 +1,3 @@
 sudachipy
+jamdict==0.1a11.post2
+jamdict-data==1.5
