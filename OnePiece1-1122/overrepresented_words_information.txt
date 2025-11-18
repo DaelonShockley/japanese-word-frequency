@@ -1,0 +1,723 @@
+1. 麦わら (1093.63x standard frequency)
+
+• むぎわら, ばっかん / 麦わら, 麦藁, 麦稈
+    1. wheat straw; barley straw (noun (common) (futsuumeishi))
+
+Kanji components:
+    麦 — barley; wheat; orge; blé; cebada; trigo; cevada; trigo; grade 2
+    藁 — straw; grade 9
+    稈 — straw; hollow stem; grade None
+
+2. 海賊 (304.42x standard frequency)
+
+• かいぞく / 海賊
+    1. pirate; sea robber; buccaneer; freebooter (noun (common) (futsuumeishi))
+
+Kanji components:
+    海 — sea; ocean; mer; océan; mar; océano; playa; oceano; mar; grade 2
+    賊 — burglar; rebel; traitor; robber; bandit; rebelle; traitre; cambrioleur; voleur; ladrón; rebelde; traidor; assaltante; rebelde; traidor; ladrão; grade 8
+
+3. 待つ (54.09x standard frequency)
+
+• まつ / 待つ, 俟つ
+    1. to wait (Godan verb with 'tsu' ending, transitive verb, intransitive verb)
+    2. to await; to look forward to; to anticipate (Godan verb with 'tsu' ending, transitive verb, intransitive verb)
+    3. to depend on; to need (Godan verb with 'tsu' ending, transitive verb, intransitive verb)
+
+Kanji components:
+    待 — wait; depend on; attendre; compter sur; esperar; aguardar; esperar; contar com; grade 3
+    俟 — wait; depend on; grade None
+
+4. 知る (21.67x standard frequency)
+
+• しる / 知る, 識る
+    1. to be aware of; to know; to be conscious of; to cognize; to cognise (Godan verb with 'ru' ending, transitive verb)
+    2. to notice; to feel (Godan verb with 'ru' ending, transitive verb)
+    3. to understand; to comprehend; to grasp (Godan verb with 'ru' ending, transitive verb)
+    4. to remember; to be acquainted with (a procedure) (Godan verb with 'ru' ending, transitive verb)
+    5. to experience; to go through; to learn (Godan verb with 'ru' ending, transitive verb)
+    6. to be acquainted with (a person); to get to know (Godan verb with 'ru' ending, transitive verb)
+    7. to concern (Godan verb with 'ru' ending, transitive verb)
+
+Kanji components:
+    知 — know; wisdom; savoir; sagesse; conocer; saber; entender; saber; sabedoria; grade 2
+    識 — discriminating; know; write; discernement; connaissance; écrire; discernir; distinguir; símbolo; discriminação; saber; escrever; grade 5
+
+5. 王 (19.72x standard frequency)
+
+• おう / 王
+    1. king; ruler; sovereign; monarch (noun (common) (futsuumeishi), noun, used as a suffix)
+    2. tycoon; magnate; champion; master (noun (common) (futsuumeishi), noun, used as a suffix)
+    3. king (of the senior player) (noun (common) (futsuumeishi), noun, used as a suffix)
+
+• おおきみ, おおぎみ / 大君, 大王, 王
+    1. emperor; king; prince (noun (common) (futsuumeishi))
+
+Kanji components:
+    王 — king; rule; magnate; roi; régner; magnat; rey; regla; magnate; rei; regra; magnata; governo; grade 1
+    大 — large; big; grand; grande; muy; mucho; grande; enorme; grade 1
+    君 — mister; you; ruler; male name suffix; jeune homme; tu; suffixe de nom (-kun); señor; don; tú (familiarmente); rapaz; sufixo p/ nome; grade 3
+
+6. 死ぬ (18.13x standard frequency)
+
+• しぬ / 死ぬ
+    1. to die; to pass away (Godan verb with 'nu' ending, irregular nu verb, intransitive verb)
+    2. to lose spirit; to lose vigor; to look dead (Godan verb with 'nu' ending, irregular nu verb, intransitive verb)
+    3. to cease; to stop (Godan verb with 'nu' ending, irregular nu verb, intransitive verb)
+
+Kanji components:
+    死 — death; die; mort; mourir; muerte; morir; morte; dados; grade 3
+
+7. 分かる (15.62x standard frequency)
+
+• わかる / 分かる, 解る, 判る, 分る
+    1. to understand; to comprehend; to grasp; to see; to get; to follow (Godan verb with 'ru' ending, intransitive verb)
+    2. to become clear; to be known; to be discovered; to be realized; to be realised; to be found out (Godan verb with 'ru' ending, intransitive verb)
+    3. I know!; I think so too! (interjection (kandoushi))
+
+Kanji components:
+    分 — part; minute of time; segment; share; degree; one's lot; duty; understand; know; rate; 1%; chances; shaku/100; portion; minute; section; part; degré; son lot dans la vie; comprendre; savoir; devoir; taux; 1%; chances; bu = 1/100 de shaku = 3.03 mm; parte; segmento; minuto; dividir; separar; parte; minuto; segmento; grau; dever; compreender; saber; valor; 1%; oportunidades; shaku/100; grade 2
+    解 — unravel; notes; key; explanation; understanding; untie; undo; solve; answer; cancel; absolve; explain; minute; délier; notes; clé; explication; compréhension; défaire; résoudre; répondre; annuler; absoudre; expliquer; minute; desenredar; desatar; liberar; aclarar; resolver; peinarse; aflojar; solucionar; notas; chave; explicação; compreensão; desamarrar; desfazer; resolveer; resposta; cancelar; absolver; explicar; deta; grade 5
+    判 — judgement; signature; stamp; seal; jugement; signature; tampon; sceau; diferenciar; distinguir; juzgar; sello; marca; señal; sufijo para tamaño (papel); julgamento; assinatura; selo; carimbo; grade 5
+
+8. 船 (13.11x standard frequency)
+
+• ふね / 船, 舟, 槽
+    1. ship; boat; watercraft; vessel; seaplane (noun (common) (futsuumeishi))
+    2. tank; tub; vat; trough (noun (common) (futsuumeishi))
+    3. counter for boat-shaped containers (e.g. of sashimi) (noun, used as a suffix, counter)
+
+Kanji components:
+    船 — ship; boat; bateau; navire; barco; buque; bote; barco; grade 2
+    舟 — boat; ship; bateau; vaisseau; bote; barco; barco; nave; navio; grade 8
+    槽 — vat; tub; tank; cuve; bac; réservoir; tina; tanque; cisterna; barril; balde; tanque; grade 8
+
+9. 島 (9.80x standard frequency)
+
+• しま / 島, 嶋
+    1. island (noun (common) (futsuumeishi))
+    2. one's territory (e.g. of a sex worker, organized crime gang); one's turf (noun (common) (futsuumeishi))
+
+• とう / 島
+    1. Island (suffix)
+    2. insula; island; islet (noun, used as a suffix, noun (common) (futsuumeishi))
+
+Kanji components:
+    島 — island; île; isla; ilha; grade 3
+    嶋 — island; grade 10
+
+10. 海 (9.54x standard frequency)
+
+• うみ, み, わた, わだ / 海
+    1. sea; ocean; waters (noun (common) (futsuumeishi))
+
+Kanji components:
+    海 — sea; ocean; mer; océan; mar; océano; playa; oceano; mar; grade 2
+
+11. ねえ (9.53x standard frequency)
+
+• ね, ねー, ねえ, ねぇ
+    1. right?; don't you think (particle)
+    2. hey; come on; listen (interjection (kandoushi))
+
+• ねえ / 姉
+    1. older sister (noun, used as a suffix)
+
+• ねー, ねえ, ねぇ, ね
+    1. nonexistent; not being (there); not having (expressions (phrases, clauses, etc.))
+    2. not (auxiliary adjective)
+
+Kanji components:
+    姉 — elder sister; soeur aînée; hermana mayor; irmã mais velha; grade 2
+
+12. やる (7.57x standard frequency)
+
+• やる / 遣る, 行る
+    1. to do; to undertake; to perform; to play (a game); to study (Godan verb with 'ru' ending, transitive verb)
+    2. to send; to dispatch; to despatch (Godan verb with 'ru' ending, transitive verb)
+    3. to put; to move; to turn (one's head, glance, etc.) (Godan verb with 'ru' ending, transitive verb)
+    4. to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer (Godan verb with 'ru' ending, transitive verb)
+    5. to make (a vehicle) go faster (Godan verb with 'ru' ending, transitive verb)
+    6. to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise (Godan verb with 'ru' ending, transitive verb)
+    7. to have (food, drink, etc.); to eat; to drink; to smoke (Godan verb with 'ru' ending, transitive verb)
+    8. to hold (a performance); to perform; to show (Godan verb with 'ru' ending, transitive verb)
+    9. to ease (one's mind) (Godan verb with 'ru' ending, transitive verb)
+    10. to harm; to injure; to kill (Godan verb with 'ru' ending, transitive verb)
+    11. to have sex with (Godan verb with 'ru' ending, transitive verb)
+    12. to live; to get by; to get along (Godan verb with 'ru' ending, intransitive verb)
+    13. to do ... completely (suffix, Godan verb with 'ru' ending)
+    14. to do ... broadly; to do ... to a great distance (suffix, Godan verb with 'ru' ending)
+    15. to do ... for (someone of equal or lower status); to do ... to (sometimes with negative nuance) (auxiliary verb, Godan verb with 'ru' ending)
+    16. to make active efforts to ... (auxiliary verb, Godan verb with 'ru' ending)
+
+• やる / 殺る
+    1. to do someone in; to bump someone off (Godan verb with 'ru' ending, transitive verb)
+
+• やる / 演る
+    1. to perform; to play; to act (Godan verb with 'ru' ending, transitive verb)
+
+• やる, ヤる / 犯る
+    1. to have sex with (Godan verb with 'ru' ending, transitive verb)
+
+Kanji components:
+    遣 — dispatch; despatch; send; give; donate; do; undertake; expédier; envoyer; donner; faire; entreprendre; enviar; despachar; dar; donar; obsequiar; despacho; enviar; dar; doar; fazer; empreender; grade 8
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    殺 — kill; murder; butcher; slice off; split; diminish; reduce; spoil; tuer; meurtre; massacrer; abattre; trancher; fendre; diminuer; réduire; gâcher; matar; quitar la vida; matar; assassinato; açougueiro; fatiar; partir; diminuir; reduzir; corromper; grade 4
+    演 — performance; act; play; render; stage; interpréter; représentation; jouer; numéro; réciter; mettre en scène; expresar; realizar; llevar a cabo; poner en práctica; representar; performance; ato; jogo; fazer; estágio; grade 5
+    犯 — crime; sin; offense; crime; péché; délit; crimen; delito; ofensa; cometer; perpetrar un delito; violar; crime; pecado; ofensa; grade 5
+
+13. 男 (7.22x standard frequency)
+
+• おとこ, おっこ / 男
+    1. man; male (noun (common) (futsuumeishi), noun, used as a prefix)
+    2. fellow; guy; chap; bloke (noun (common) (futsuumeishi))
+    3. male lover; boyfriend; man (noun (common) (futsuumeishi))
+    4. manliness; manly honor; manly honour; manly reputation (noun (common) (futsuumeishi))
+
+• おのこ / 男, 男の子
+    1. man; boy (noun (common) (futsuumeishi))
+
+• お / 雄, 男, 夫, 牡
+    1. male (noun, used as a prefix, noun, used as a suffix)
+    2. manly; brave; heroic (noun, used as a prefix)
+    3. larger (of the two); greater (noun, used as a prefix)
+    4. man (noun (common) (futsuumeishi))
+    5. husband (noun (common) (futsuumeishi))
+
+• なん / 男
+    1. son (noun (common) (futsuumeishi), noun, used as a suffix, counter)
+
+• だん / 男
+    1. son (noun (common) (futsuumeishi))
+    2. baron (noun (common) (futsuumeishi))
+    3. man; male (noun (common) (futsuumeishi))
+
+Kanji components:
+    男 — male; homme; mâle; masculino; hombre; masculino; grade 1
+    子 — child; sign of the rat; 11PM-1AM; first sign of Chinese zodiac; enfant; signe de la 1ère branche terrestre; signe du Rat (zodiaque); 23 h à 01 h; Nord (0°); chiquillo; niño; criança; grade 1
+    雄 — masculine; male; hero; leader; superiority; excellence; mâle; masculin; héros; chef; supériorité; excellence; fuerte; bravo; valiente; masculino; varón; masculino; másculo; herói; líder; superioridade; excelência; grade 8
+    夫 — husband; man; mari; homme; marido; hombre; esposo; marido; homem; grade 4
+    牡 — male; macho; masculino; grade 9
+
+14. 来る (7.19x standard frequency)
+
+• くる / 来る, 來る
+    1. to come (spatially or temporally); to approach; to arrive (Kuru verb - special class, intransitive verb)
+    2. to come back; to do ... and come back (Kuru verb - special class, intransitive verb, auxiliary verb)
+    3. to come to be; to become; to get; to grow; to continue (Kuru verb - special class, intransitive verb, auxiliary verb)
+    4. to come from; to be caused by; to derive from (Kuru verb - special class, intransitive verb)
+    5. to come to (i.e. "when it comes to spinach ...") (Kuru verb - special class, intransitive verb)
+
+• きたる / 来る, 来たる
+    1. next (e.g. "next April"); forthcoming; coming (pre-noun adjectival (rentaishi))
+    2. to come; to arrive; to be due to (Godan verb with 'ru' ending, intransitive verb)
+
+Kanji components:
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
+
+15. くれる (5.86x standard frequency)
+
+• くれる / 呉れる
+    1. to give; to let (one) have (Ichidan verb - kureru special class, transitive verb)
+    2. to give (Ichidan verb - kureru special class, transitive verb)
+    3. to do for one; to take the trouble to do (auxiliary verb, Ichidan verb - kureru special class)
+    4. to do to someone's disadvantage (auxiliary verb, Ichidan verb - kureru special class)
+
+• くれる / 暮れる, 眩れる, 暗れる, 昏れる
+    1. to get dark; to grow dark (Ichidan verb, intransitive verb)
+    2. to end (of a day, year, season, etc.); to come to an end; to close (Ichidan verb, intransitive verb)
+    3. to be sunk in (e.g. despair); to be lost in (e.g. thought); to be overcome with (Ichidan verb, intransitive verb)
+
+Kanji components:
+    呉 — give; do something for; kingdom of Wu; tu me donnes; faire pour moi; dar; recibir; antigua provincia de China; dê; fazer alguma coisa para; grade 8
+    暮 — evening; twilight; season's end; livelihood; make a living; spend time; mener sa vie; vivre; arriver à son terme; coucher de soleil; anochecer; vivir; finalizar; obscurecerse; acabar; meio de vida; ganhar a vida; gastar tempo; grade 6
+    眩 — faint; dizzy; grade None
+    暗 — darkness; disappear; shade; informal; grow dark; be blinded; obscurité; disparaître; ombre; informel; s'assombrir; être aveuglé; oscuro; poco claro; memorizar; sombrío; escuridão; desaparecer; sombra; informal; escurecer; cegar; grade 3
+    昏 — dark; evening; dusk; grade 9
+
+16. 出る (4.52x standard frequency)
+
+• でる / 出る
+    1. to leave; to exit; to go out; to come out; to get out (Ichidan verb, intransitive verb)
+    2. to leave (on a journey); to depart; to start out; to set out (Ichidan verb, intransitive verb)
+    3. to move forward (Ichidan verb, intransitive verb)
+    4. to come to; to get to; to lead to; to reach (Ichidan verb, intransitive verb)
+    5. to appear; to come out; to emerge; to surface; to come forth; to turn up; to be found; to be detected; to be discovered; to be exposed; to show; to be exhibited; to be on display (Ichidan verb, intransitive verb)
+    6. to appear (in print); to be published; to be announced; to be issued; to be listed; to come out (Ichidan verb, intransitive verb)
+    7. to attend; to participate; to take part; to enter (an event); to play in; to perform (Ichidan verb, intransitive verb)
+    8. to be stated; to be expressed; to come up; to be brought up; to be raised (Ichidan verb, intransitive verb)
+    9. to sell (Ichidan verb, intransitive verb)
+    10. to exceed; to go over (Ichidan verb, intransitive verb)
+    11. to stick out; to protrude (Ichidan verb, intransitive verb)
+    12. to break out; to occur; to start; to originate (Ichidan verb, intransitive verb)
+    13. to be produced (Ichidan verb, intransitive verb)
+    14. to come from; to be derived from (Ichidan verb, intransitive verb)
+    15. to be given; to get; to receive; to be offered; to be provided; to be presented; to be submitted; to be handed in; to be turned in; to be paid (Ichidan verb, intransitive verb)
+    16. to answer (phone, door, etc.); to get (Ichidan verb, intransitive verb)
+    17. to assume (an attitude); to act; to behave (Ichidan verb, intransitive verb)
+    18. to pick up (speed, etc.); to gain (Ichidan verb, intransitive verb)
+    19. to flow (e.g. tears); to run; to bleed (Ichidan verb, intransitive verb)
+    20. to graduate (Ichidan verb, intransitive verb)
+    21. to ejaculate; to cum (Ichidan verb, intransitive verb)
+
+Kanji components:
+    出 — exit; leave; go out; come out; put out; protrude; sortir; quitter; présence; salir; dejar; sacar; saída; deixa; grade 1
+
+17. 見る (4.09x standard frequency)
+
+• みる / 見る, 観る, 視る
+    1. to see; to look; to watch; to view; to observe (Ichidan verb, transitive verb)
+    2. to examine; to look over; to assess; to check; to judge (Ichidan verb, transitive verb)
+    3. to look after; to attend to; to take care of; to keep an eye on (Ichidan verb, transitive verb)
+    4. to experience; to meet with (misfortune, success, etc.) (Ichidan verb, transitive verb)
+    5. to try ...; to have a go at ...; to give ... a try (auxiliary verb, Ichidan verb)
+    6. to see (that) ...; to find (that) ... (auxiliary verb, Ichidan verb)
+
+Kanji components:
+    見 — see; hopes; chances; idea; opinion; look at; visible; regarder; voir; visible; espoirs; chances; idée; opinion; vista; ver; esperanza; idea; opinión; observar; ser visto; estar a la vista; poder verse; mostrar; ver; esperanças; oportunidades; idéia; opinião; olhar; visíveis; grade 1
+    観 — outlook; look; appearance; condition; view; perspective; vue; aspect; apparence; condition (état); punto de vista; mirar cuidadosamente; mostrar; perspectiva; olhar; aparecimento; condição; visão; grade 4
+    視 — inspection; regard as; see; look at; inspection; point de vue; voir; regarder; inspeccionar; mirar con cuidado; considerar; inspeção; avaliar; ver; olhar; grade 6
+
+18. 行く (3.82x standard frequency)
+
+• いく, ゆく / 行く, 逝く, 往く
+    1. to go; to move (in a direction or towards a specific location); to head (towards); to be transported (towards); to reach (Godan verb - Iku/Yuku special class, intransitive verb)
+    2. to proceed; to take place (Godan verb - Iku/Yuku special class, intransitive verb)
+    3. to pass through; to come and go (Godan verb - Iku/Yuku special class, intransitive verb)
+    4. to walk (Godan verb - Iku/Yuku special class, intransitive verb)
+    5. to die; to pass away (Godan verb - Iku/Yuku special class, intransitive verb)
+    6. to do (in a specific way) (Godan verb - Iku/Yuku special class, intransitive verb)
+    7. to stream; to flow (Godan verb - Iku/Yuku special class, intransitive verb)
+    8. to continue (Godan verb - Iku/Yuku special class, auxiliary verb)
+    9. to have an orgasm; to come; to cum (Godan verb - Iku/Yuku special class, intransitive verb)
+    10. to trip; to get high; to have a drug-induced hallucination (Godan verb - Iku/Yuku special class, intransitive verb)
+
+Kanji components:
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    逝 — departed; die; défunt; mourir; difunto; morir; fallecer; partir; morrer; grade 8
+    往 — journey; travel; chase away; let go; going; before; formerly; aller simple; aller; parer (coup); voyage; parfois; ir; tiempos antiguos; a veces; viagem; caça embora; deixada ir; indo; grade 5
+
+19. 国 (3.21x standard frequency)
+
+• くに / 国, 邦, 國
+    1. country; state (noun (common) (futsuumeishi))
+    2. region (noun (common) (futsuumeishi))
+    3. national government; central government (noun (common) (futsuumeishi))
+    4. home (i.e. hometown, home country) (noun (common) (futsuumeishi))
+    5. province (of Japan) (noun (common) (futsuumeishi))
+    6. land; earth (noun (common) (futsuumeishi))
+
+Kanji components:
+    国 — country; pays; país; País; terra; nação; grade 2
+    邦 — home country; country; Japan; pays natal; pays; Japon; país natal; país; tierra; Terra natal; país; Japão; grade 8
+    國 — country; grade 10
+
+20. 言う (2.78x standard frequency)
+
+• いう, ゆう / 言う, 云う, 謂う
+    1. to say; to utter; to declare (Godan verb with 'u' ending)
+    2. to name; to call (Godan verb with 'u' ending)
+    3. to go (e.g. "the alarm went ping"); to make a noise (Godan verb with 'u' ending)
+
+Kanji components:
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    云 — say; decir; grade 9
+    謂 — reason; origin; history; oral tradition; grade 9
+
+21. くる (2.61x standard frequency)
+
+• くる / 繰る
+    1. to reel; to wind; to spin (thread) (Godan verb with 'ru' ending, transitive verb)
+    2. to turn (pages); to flip through (a book); to leaf through (a book); to consult (a dictionary); to refer to (an encyclopedia) (Godan verb with 'ru' ending, transitive verb)
+    3. to count (e.g. the days) (Godan verb with 'ru' ending, transitive verb)
+    4. to open one-by-one; to close one-by-one (e.g. shutters) (Godan verb with 'ru' ending, transitive verb)
+
+• くる / 来る, 來る
+    1. to come (spatially or temporally); to approach; to arrive (Kuru verb - special class, intransitive verb)
+    2. to come back; to do ... and come back (Kuru verb - special class, intransitive verb, auxiliary verb)
+    3. to come to be; to become; to get; to grow; to continue (Kuru verb - special class, intransitive verb, auxiliary verb)
+    4. to come from; to be caused by; to derive from (Kuru verb - special class, intransitive verb)
+    5. to come to (i.e. "when it comes to spinach ...") (Kuru verb - special class, intransitive verb)
+
+• くる / 佝僂
+    1. rickets (noun (common) (futsuumeishi))
+    2. someone suffering from rickets (noun (common) (futsuumeishi))
+
+• えぐる, くる / 抉る, 刳る, 剔る
+    1. to gouge; to hollow out; to bore; to excavate; to scoop out (Godan verb with 'ru' ending, transitive verb)
+    2. to greatly perturb; to cause emotional pain (Godan verb with 'ru' ending, transitive verb)
+    3. to get to the bottom of things; to relentlessly bring the truth to light (Godan verb with 'ru' ending, transitive verb)
+
+• くるる, くろろ, くる, くるり / 枢
+    1. pivot hinge (using extensions on the top and bottom of a door that fit into cavities in the frame) (noun (common) (futsuumeishi))
+    2. sliding wooden bolt (for holding a door or window shut) (noun (common) (futsuumeishi))
+
+• くる / 呉る
+    1. to give; to let one have; to do for one (Nidan verb (lower class) with 'ru' ending (archaic), transitive verb)
+
+Kanji components:
+    繰 — winding; reel; spin; turn (pages); look up; refer to; embobiner; bobine; faire tourner; tourner (pages); feuilleter; parler de; devanar; ovillar; pasar páginas; curva; bobina; giro; virar (páginas); melhorar; referis-se a; grade 8
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
+    佝 — foolish; stooped over; grade None
+    僂 — bend over; grade None
+    抉 — gouge; hollow out; bore; pry; grade None
+    刳 — clear; serene; cold; grade None
+    剔 — cutting; grade None
+    枢 — hinge; pivot; door; pivot; charnière; porte; gozne; pivote; eje; punto vital; dobradiça; pivô; porta; grade 8
+    呉 — give; do something for; kingdom of Wu; tu me donnes; faire pour moi; dar; recibir; antigua provincia de China; dê; fazer alguma coisa para; grade 8
+
+22. する (2.39x standard frequency)
+
+• する / 為る
+    1. to do; to carry out; to perform (suru verb - included)
+    2. to cause to become; to make (into); to turn (into) (suru verb - included)
+    3. to serve as; to act as; to work as (suru verb - included)
+    4. to wear (clothes, a facial expression, etc.) (suru verb - included)
+    5. to judge as being; to view as being; to think of as; to treat as; to use as (suru verb - included)
+    6. to decide on; to choose (suru verb - included)
+    7. to be sensed (of a smell, noise, etc.) (suru verb - included, intransitive verb)
+    8. to be (in a state, condition, etc.) (suru verb - included, intransitive verb)
+    9. to be worth; to cost (suru verb - included, intransitive verb)
+    10. to pass (of time); to elapse (suru verb - included, intransitive verb)
+    11. to place, or raise, person A to a post or status B (suru verb - included, transitive verb)
+    12. to transform A to B; to make A into B; to exchange A for B (suru verb - included, transitive verb)
+    13. to make use of A for B; to view A as B; to handle A as if it were B (suru verb - included, transitive verb)
+    14. to feel A about B (suru verb - included, transitive verb)
+    15. verbalizing suffix (applies to nouns noted in this dictionary with the part of speech "vs") (suffix, suru verb - included)
+    16. creates a humble verb (after a noun prefixed with "o" or "go") (auxiliary verb, suru verb - included)
+    17. to be just about to; to be just starting to; to try to; to attempt to (auxiliary verb, suru verb - included)
+
+• する / 刷る, 摺る
+    1. to print (Godan verb with 'ru' ending, transitive verb)
+    2. to color or pattern fabric using a wooden mold (Godan verb with 'ru' ending, transitive verb)
+
+• する, スる / 掏る
+    1. to pickpocket; to steal (Godan verb with 'ru' ending, transitive verb)
+
+• そる, する / 剃る
+    1. to shave (Godan verb with 'ru' ending, transitive verb)
+
+• する / 擦る, 摩る, 磨る, 擂る
+    1. to rub; to chafe; to strike (match); to file; to frost (glass) (Godan verb with 'ru' ending, transitive verb)
+    2. to lose (e.g. a match); to forfeit; to squander one's money (e.g. through gambling, Pachinko, etc.) (Godan verb with 'ru' ending, transitive verb)
+
+Kanji components:
+    為 — do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of; faire; changer; bénéfice; bien-être; être utile; atteindre; essayer; s'entraîner; coûter; servir pour; bon; avantage; par suite de; hacer; ocurrir; razón; causa; mudança; benefício; bem-estar; é de uso; tentativa; prática; custo; servir para; bom; vantagem; como um resultado de; grade 8
+    刷 — printing; print; brush; imprimer; impression; impreso; estampado; imprimir; impressão; imprimir; grade 4
+    摺 — rub; fold; print (on cloth); frotar; rascar; sellar; pliegue; arruga; plegar; grade 9
+    掏 — pickpocket; grade None
+    剃 — shave; grade None
+    擦 — grate; rub; scratch; scrape; chafe; scour; abrasion; gratter; frotter; râper; racler; irriter; récurer; frotar; restregar; rascar; raspar; arranhar; esfregar; coçar; escovar; atritar; explorar; grade 8
+    摩 — chafe; rub; polish; grind; scrape; irriter; gratter; caresser; frictionner; polir; moudre; roce; fricción; caricia; escoriação; raspar; polir; alcance; arranhão; grade 8
+    磨 — grind; polish; scour; improve; brush (teeth); polir; moudre; récurer; améliorer; brosser (dents); pulido; abrillantado; pulir; abrillantar; lavarse los dientes; moer; polir; explorar; melhorar; escovar (dentes); grade 8
+    擂 — grind; mash; grate; grade None
+
+23. なる (2.00x standard frequency)
+
+• なる / 成る, 為る
+    1. to become; to get; to grow; to be; to reach; to attain (Godan verb with 'ru' ending, intransitive verb)
+    2. to result in; to prove to be (Godan verb with 'ru' ending, intransitive verb)
+    3. to consist of; to be composed of (Godan verb with 'ru' ending, intransitive verb)
+    4. to succeed; to be complete (Godan verb with 'ru' ending, intransitive verb)
+    5. to change into; to be exchanged for (Godan verb with 'ru' ending, intransitive verb)
+    6. to play a role (Godan verb with 'ru' ending, intransitive verb)
+    7. to be promoted (Godan verb with 'ru' ending, intransitive verb)
+    8. to do ... (Godan verb with 'ru' ending)
+
+• なる / 鳴る
+    1. to sound; to ring; to resound; to echo; to roar; to rumble (Godan verb with 'ru' ending, intransitive verb)
+
+• なる / 生る
+    1. to bear fruit (Godan verb with 'ru' ending, intransitive verb)
+
+• なる
+    1. that is in (suffix, noun or verb acting prenominally)
+    2. who is called; that is called (suffix, noun or verb acting prenominally)
+    3. that is (suffix, noun or verb acting prenominally)
+    4. I see (interjection (kandoushi))
+
+Kanji components:
+    成 — turn into; become; get; grow; elapse; reach; se changer en; devenir; obtenir; croissance; s'écouler; accomplir; convertirse en; resultar; consistir en; hacerse; llegar a ser; llevar a cabo; lograr; tornar-se; obter; crescer; passar; alcançar; grade 4
+    為 — do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of; faire; changer; bénéfice; bien-être; être utile; atteindre; essayer; s'entraîner; coûter; servir pour; bon; avantage; par suite de; hacer; ocurrir; razón; causa; mudança; benefício; bem-estar; é de uso; tentativa; prática; custo; servir para; bom; vantagem; como um resultado de; grade 8
+    鳴 — chirp; cry; bark; sound; ring; echo; honk; gazouiller; crier; aboyer; pousser son cri (animal); sonner; écho; cacarder; emitir sonido (animal); sonido; sonar; hacer sonar; gorjeio; choro; latido; som; argola; eco; buzina; grade 2
+    生 — life; genuine; birth; vie; naissance; authentique; cru; vida; nacimiento; vivir; existir; nacer; dar a luz; puro; crudo; vida; genuína; nascimento; grade 1
+
+24. いく (0.94x standard frequency)
+
+• いく / 畏懼
+    1. reverence; awe; fear (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
+
+• いく / 幾
+    1. some; several (noun (common) (futsuumeishi), prefix)
+    2. many (noun (common) (futsuumeishi), prefix)
+    3. how many?; how much? (noun (common) (futsuumeishi), prefix)
+
+• いく, ゆく / 行く, 逝く, 往く
+    1. to go; to move (in a direction or towards a specific location); to head (towards); to be transported (towards); to reach (Godan verb - Iku/Yuku special class, intransitive verb)
+    2. to proceed; to take place (Godan verb - Iku/Yuku special class, intransitive verb)
+    3. to pass through; to come and go (Godan verb - Iku/Yuku special class, intransitive verb)
+    4. to walk (Godan verb - Iku/Yuku special class, intransitive verb)
+    5. to die; to pass away (Godan verb - Iku/Yuku special class, intransitive verb)
+    6. to do (in a specific way) (Godan verb - Iku/Yuku special class, intransitive verb)
+    7. to stream; to flow (Godan verb - Iku/Yuku special class, intransitive verb)
+    8. to continue (Godan verb - Iku/Yuku special class, auxiliary verb)
+    9. to have an orgasm; to come; to cum (Godan verb - Iku/Yuku special class, intransitive verb)
+    10. to trip; to get high; to have a drug-induced hallucination (Godan verb - Iku/Yuku special class, intransitive verb)
+
+• いく / 生
+    1. vital; virile; lively (prefix)
+
+• いく / 生く, 活く
+    1. to live; to exist (Nidan verb (upper class) with 'ku' ending (archaic), Yodan verb with 'ku' ending (archaic), intransitive verb)
+    2. to bring to life (Nidan verb (lower class) with 'ku' ending (archaic), transitive verb)
+
+Kanji components:
+    畏 — fear; majestic; graciously; be apprehensive; grade 8
+    懼 — fear; overawed; grade None
+    幾 — how many; how much; how far; how long; some; several; combien; quel; quelques; cuántos; algunos; quantos; quanto; quão longe; quanto tempo; grade 8
+    行 — going; journey; carry out; conduct; act; line; row; bank; aller; voyage; ir; fila; línea (texto); ocurrencia; conducta; realizar; llevar a cabo; ocurrir; ir; viagem; viajar; grade 2
+    逝 — departed; die; défunt; mourir; difunto; morir; fallecer; partir; morrer; grade 8
+    往 — journey; travel; chase away; let go; going; before; formerly; aller simple; aller; parer (coup); voyage; parfois; ir; tiempos antiguos; a veces; viagem; caça embora; deixada ir; indo; grade 5
+    生 — life; genuine; birth; vie; naissance; authentique; cru; vida; nacimiento; vivir; existir; nacer; dar a luz; puro; crudo; vida; genuína; nascimento; grade 1
+    活 — lively; resuscitation; being helped; living; vivant; animé; résurrection; être aidé; vida; energía; actividad; vivo; resuscitação; existência; ser ajudado; vida; grade 2
+
+25. できる (0.92x standard frequency)
+
+• できる / 出切る
+    1. to be out of; to have no more at hand (Godan verb with 'ru' ending, transitive verb)
+
+• できる / 出来る, 出きる, 出來る
+    1. to be able (in a position) to do; to be up to the task (Ichidan verb, intransitive verb)
+    2. to be ready; to be completed (Ichidan verb, intransitive verb)
+    3. to be made; to be built (Ichidan verb, intransitive verb)
+    4. to be good at; to be permitted (to do) (Ichidan verb, intransitive verb)
+    5. to become intimate; to take up (with somebody) (Ichidan verb, intransitive verb)
+    6. to grow; to be raised (Ichidan verb, intransitive verb)
+    7. to become pregnant (Ichidan verb, intransitive verb)
+
+Kanji components:
+    出 — exit; leave; go out; come out; put out; protrude; sortir; quitter; présence; salir; dejar; sacar; saída; deixa; grade 1
+    切 — cut; cutoff; be sharp; couper; trancher; tranchant; passionné; sérieux; cortar; urgente; apremiante; completo; cortar bien; agotarse; corte; talho; afiar; grade 2
+    来 — come; due; next; cause; become; venir; dû à; suivant; causer; devenir; venir; llegar; acercarse; aproximarse; Vir; devido; próximo; causa; tornar-se; grade 2
+    來 — come; due; next; cause; become; grade 10
+
+26. いる (0.90x standard frequency)
+
+• いる / 射る
+    1. to shoot (arrow, bolt, dart) (Ichidan verb, transitive verb)
+
+• いる / 炒る, 煎る, 熬る
+    1. to roast; to parch; to toast; to boil down (Godan verb with 'ru' ending, transitive verb)
+
+• いる / 入る
+    1. to get in; to go in; to come in; to flow into; to set; to set in (Godan verb with 'ru' ending, intransitive verb)
+
+• いる / 要る
+    1. to be needed; to be wanted (Godan verb with 'ru' ending, intransitive verb)
+
+• いる / 居る
+    1. to be (of animate objects); to exist (Ichidan verb, intransitive verb)
+    2. to stay (Ichidan verb, intransitive verb)
+    3. to be ...-ing; to have been ...-ing (Ichidan verb, auxiliary verb)
+
+• いる / 鋳る, 鑄る
+    1. to cast; to mint; to coin (Ichidan verb, transitive verb)
+
+• いる / 沒る, 没る
+    1. to set beyond the Western horizon (i.e. the Sun) (Godan verb with 'ru' ending)
+
+• いる / 癒る
+    1. to calm down (Ichidan verb, intransitive verb)
+
+Kanji components:
+    射 — shoot; shine into; onto; archery; lancer une flèche; tir à l'arc; sur; briller; disparar; tirar; radiar; liberar; dispare; brilha dentro; sobre; arte do arco e flexa; grade 6
+    炒 — broil; parch; roast; fry; grade None
+    煎 — broil; parch; roast; boil; grade 8
+    熬 — parch; roast; grade None
+    入 — enter; insert; entrer; insérer; entrar; insertar; admitir; introducir; meter; entrar; inserir; grade 1
+    要 — need; main point; essence; pivot; key to; besoin; point principal; pivot; essentiel; point clef; necesidad; punto central; esencia; necesitar; necessidade; ponto principal; essência; pivô; chave para; grade 4
+    居 — reside; to be; exist; live with; se trouver; résider; être; exister; vivre avec; sentarse; residir; vivir con; ser [nk]; existir; residir; existir; viver com; grade 5
+    鋳 — casting; mint; couler (métal); frapper (monnaie); fundir; acuñar; calcular; cunhar moedas; grade 8
+    鑄 — cast; mint; grade 10
+    沒 — not; have not; none; to drown; sink; grade None
+    没 — drown; sink; hide; fall into; disappear; die; sombrer; couler; cacher; immersion; disparaître; mourir; hundirse; ocultarse; morir; perecer; perder; penetrar; rechazar; excluir; afogar; afundar; esconder; cair na mãos de; desaparecer; evaporar; grade 8
+    癒 — healing; cure; quench (thirst); wreak; guérison; guérir; désaltérer; assouvir; curación; cicatrización; restabelecimento; cura; saciar (sede); saciar vontade de vingança; grade 8
+
+27. 今 (0.76x standard frequency)
+
+• いま / 今
+    1. now; the present time; just now; soon; immediately (noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adverb (fukushi))
+    2. another; more (adverb (fukushi))
+
+• こん / 今
+    1. the current ...; this (prefix)
+    2. today's ... (prefix)
+
+Kanji components:
+    今 — now; maintenant; ahora; momento actual; agora; grade 2
+
+28. いい (0.72x standard frequency)
+
+• いい / 怡々, 怡怡
+    1. having fun; rejoicing ('taru' adjective, adverb taking the 'to' particle)
+
+• いい / 謂
+    1. what was said; what it means; origin of a story (or tradition, etc.) (noun (common) (futsuumeishi))
+
+• いい / 飯
+    1. cooked rice (noun (common) (futsuumeishi))
+
+• いい / 易々, 易易
+    1. easy; simple; plain ('taru' adjective, adverb taking the 'to' particle)
+
+• いい / 唯々, 唯唯
+    1. obedient; submissive; tame; slavish ('taru' adjective, adverb taking the 'to' particle)
+
+• いい
+    1. good; excellent; fine; nice; pleasant; agreeable (adjective (keiyoushi) - yoi/ii class)
+    2. sufficient; enough; ready; prepared (adjective (keiyoushi) - yoi/ii class)
+    3. profitable (deal, business offer, etc.); beneficial (adjective (keiyoushi) - yoi/ii class)
+    4. OK; all right; fine; no problem (adjective (keiyoushi) - yoi/ii class)
+
+• いい, いだ / 委蛇, 逶迤, 逶迱
+    1. winding; meandering ('taru' adjective, adverb taking the 'to' particle)
+
+• いい / 依々, 依依
+    1. affectionately attached; reluctant to part ('taru' adjective, adverb taking the 'to' particle)
+
+Kanji components:
+    怡 — rejoice; enjoy; grade None
+    謂 — reason; origin; history; oral tradition; grade 9
+    飯 — meal; boiled rice; repas; riz bouilli; comida; arroz cocido; refeição; arroz cozido; grade 4
+    易 — easy; ready to; simple; fortune-telling; divination; facile; prêt-à-...; simple; voyance; divination; commerce; fácil; simple; cambio; intercambio; adivinación; sencillo; Fácil; ler a sorte; pronto para; simples; advinhação; grade 5
+    唯 — solely; only; merely; simply; seulement; unique; simplement; solamente; meramente; simplemente; somente; unicamente; meramente; simplesmente; grade 8
+    委 — committee; entrust to; leave to; devote; discard; comité; confier à; laisser à; se consacrer; abandonner; confiar; confianza; detallado; comitê; confiar a; deixar para; dedicar; descartar; grade 3
+    蛇 — snake; serpent; hard drinker; serpent; gros buveur; serpiente; cobra; serpente; bebedor duro; grade 8
+    逶 — long; winding; oblique; grade None
+    迤 — wind; walk out of straight path; grade None
+    迱 — grade None
+    依 — reliant; depend on; consequently; therefore; due to; dépendant; par conséquent; donc; dû à; confiar en; depender de; estar basado en; confiante; contar com; consequentemente; portanto; devido para; grade 8
+
+29. ある (0.67x standard frequency)
+
+• ある / 有る, 在る
+    1. to be; to exist; to live (Godan verb with 'ru' ending (irregular verb), intransitive verb)
+    2. to have (Godan verb with 'ru' ending (irregular verb), intransitive verb)
+    3. to be located (Godan verb with 'ru' ending (irregular verb), intransitive verb)
+    4. to be equipped with (Godan verb with 'ru' ending (irregular verb), intransitive verb)
+    5. to happen; to come about (Godan verb with 'ru' ending (irregular verb), intransitive verb)
+
+• ある / 或る, 或
+    1. a certain ...; some ... (pre-noun adjectival (rentaishi))
+
+Kanji components:
+    有 — possess; have; exist; happen; occur; approx; posséder; avoir; être; arriver (se passer); existir; poseer; tener; ser; possuir; ter; existir; acontecer; ocorrer; aproximadamente; haver; grade 3
+    在 — exist; outskirts; suburbs; located in; exister; banlieue; situé à; existir; pueblo natal; alrededores; ser; existir; arredores; subúrbios; localizados em; grade 5
+    或 — some; one; or; possibly; a certain; un certain; un; ou; ou bien; cierto; o; posiblemente; grade 9
+
+30. こと (0.48x standard frequency)
+
+• こと, そう / 琴, 箏, 筝
+    1. koto (13-stringed Japanese zither) (noun (common) (futsuumeishi))
+    2. stringed instrument (noun (common) (futsuumeishi))
+    3. zheng (Chinese zither); guzheng (noun (common) (futsuumeishi))
+
+• こと / 古都
+    1. ancient city; former capital (noun (common) (futsuumeishi))
+
+• こと, こん / 事, 縡
+    1. thing; matter (noun (common) (futsuumeishi))
+    2. incident; occurrence; event; something serious; trouble; crisis (noun (common) (futsuumeishi))
+    3. circumstances; situation; state of affairs (noun (common) (futsuumeishi))
+    4. work; business; affair (noun (common) (futsuumeishi))
+    5. after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to (noun (common) (futsuumeishi))
+    6. nominalizing suffix (noun, used as a suffix)
+    7. pretending to ...; playing make-believe ... (noun, used as a suffix)
+    8. alias; also known as; otherwise known as; or (noun (common) (futsuumeishi))
+    9. necessity; need (noun (common) (futsuumeishi))
+    10. you should ...; I advise that you ...; it's important to ... (noun (common) (futsuumeishi))
+
+• こと / 糊塗
+    1. patching up (e.g. a failure); covering up (e.g. a mistake); glossing over (noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru)
+
+• げん, こと / 言
+    1. word; remark; statement (noun (common) (futsuumeishi))
+
+• こと, け / 異, 殊
+    1. difference (from one another); different thing; other (noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi), noun, used as a prefix)
+    2. unusual; extraordinary (adjectival nouns or quasi-adjectives (keiyodoshi))
+
+• こと
+    1. particle indicating a command (particle)
+    2. particle indicating mild enthusiasm (particle)
+    3. particle indicating a gentle interrogative (particle)
+    4. particle used to soften a judgment or conclusion (particle)
+
+• ごと, こと, もころ / 如, 若
+    1. like; similar to; same as (noun (common) (futsuumeishi), adverb (fukushi))
+
+Kanji components:
+    琴 — harp; koto; koto; harpe; koto; arpa japonesa; harpa; koto (mus.); grade 8
+    箏 — a koto; grade None
+    筝 — koto; grade None
+    古 — old; vieux; viejo; antiguo; desgastar; velho; grade 2
+    都 — metropolis; capital; all; everything; métropole; capitale; metrópoli; capital; metropole; capital; grade 3
+    事 — matter; thing; fact; business; reason; possibly; fait; chose; matière; affaire; raison; peut-être; cosa; hecho; asunto; acción; matéria; coisa; fato; negócios; razão; possivelmente; grade 3
+    縡 — breath; life; grade None
+    糊 — paste; glue; sizing; pasta; almidón; caldo de arroz; apariencia ausente; apariencia distraída; grade 9
+    塗 — paint; plaster; daub; smear; coating; peinture; peindre; tartiner; barbouiller; enduire; recouvrir; pintar; embadurnar; untar; laquear; recubrir; pintura; gesso; emplastar; untar; cobertura; grade 8
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    異 — uncommon; different; queerness; strangeness; wonderful; curious; unusual; inhabituel; bizarrerie; étrangeté; surprenant; curieux; extraordinaire; raro; extraño; inusual; diferente; incomum; esquisito; estranho; raro; curioso; maravilhoso; grade 6
+    殊 — particularly; especially; exceptionally; particulièrement; spécialement; exceptionnellement; particularmente; especialmente; excepcionalmente; particularmente; especialmente; excepcionalmente; grade 8
+    如 — likeness; like; such as; as if; better; best; equal; ressemblance; comme; comme si; mieux; meilleur; égal; similaire; paraître; análogo; parecido; tal como; igual a; obedecer; semelhança; gostar; tal como; como se; melhor; igual; grade 8
+    若 — young; if; perhaps; possibly; low number; immature; jeune; si; peut-être; ou bien; petit nombre; inexpérimenté; immature; joven; algunos; posiblemente; de otra forma; jovem; se; talvez; possivelmente; número baixo; imaturo; grade 6
+
+31. ない (0.23x standard frequency)
+
+• じしん, ない, なえ, じぶるい / 地震
+    1. earthquake (noun (common) (futsuumeishi))
+
+• ない / 亡い
+    1. dead (adjective (keiyoushi))
+
+• ない / 無い
+    1. nonexistent; not being (there) (adjective (keiyoushi))
+    2. unowned; not had; unpossessed (adjective (keiyoushi))
+    3. unique (adjective (keiyoushi))
+    4. not; impossible; won't happen (adjective (keiyoushi))
+    5. not (auxiliary adjective)
+    6. to not be; to have not (auxiliary adjective)
+
+• ない / 内
+    1. inside; within (suffix)
+
+• ない
+    1. not (suffix)
+    2. emphatic suffix (suffix, adjective (keiyoushi))
+
+Kanji components:
+    地 — ground; earth; sol; terre; suelo; tierra; terreno; posición; terra; chão; grade 2
+    震 — quake; shake; tremble; quiver; shiver; tremblement; secouer; frémir; frissonner; temblar; estremecerse; agitar; sacudir; tremor; agitar; tremer; estremecimento; calafrio; grade 8
+    亡 — deceased; the late; dying; perish; décédé; feu ...; mon regretté ...; mourir; périr; détruire; desaparecer; perecer; difunto; huir; escapar; falecido; agonizante; atrasado; perecer; grade 6
+    無 — nothingness; none; ain't; nothing; nil; not; néant; rien; ne pas; non; in-; négatif; nada; inexistente; prefijo negativo; no hay; Sem valor; nada; não sou/ estou; nihil; não; grade 4
+    内 — inside; within; between; among; house; home; intérieur; dedans; entre; parmi; maison; interior; dentro de; privado; interior; dentro; entre; dentre; casa; grade 2
+
+32. いう (0.12x standard frequency)
+
+• ゆう, いう / 結う
+    1. to do up (hair); to dress; to arrange (Godan verb with 'u' ending, transitive verb)
+    2. to tie; to bind; to fasten; to make (a fence) (Godan verb with 'u' ending, transitive verb)
+
+• いう, ゆう / 言う, 云う, 謂う
+    1. to say; to utter; to declare (Godan verb with 'u' ending)
+    2. to name; to call (Godan verb with 'u' ending)
+    3. to go (e.g. "the alarm went ping"); to make a noise (Godan verb with 'u' ending)
+
+Kanji components:
+    結 — tie; bind; contract; join; organize; do up hair; fasten; nouer; lier; joindre; contrat; attacher; se coiffer; organiser; final; finalizar; atar; amarrar; unir; vincular; arreglarse el pelo; laço; unir; contrato; união; organizar; pentear; fechar; grade 4
+    言 — say; word; dire; palabras; decir; Dizer; palavras; grade 2
+    云 — say; decir; grade 9
+    謂 — reason; origin; history; oral tradition; grade 9
+
